@@ -1,0 +1,284 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>Monster Chores - 家务任务积分与奖励 | 👋定制开发@Harry-AI自动化定制</title><meta name="author" content="Harry"><meta name="copyright" content="Harry"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><script src="/js/allpost_data.js"></script><meta name="description" content="让家务变有趣：家务清单 + 积分 + 奖励。 分配家务、审核完成，把努力变成积分。 简洁的家庭家务与奖励追踪器，可选 iCloud 家庭同步。  简短介绍Monster Chores 帮助家庭把日常家务变成“积分 + 奖励”的简单体系。家长创建家务与奖励，孩子完成家务（可选上传照片），家长审核后发放积分。支持统计进度，并可选用 iCloud 在多设备间同步家庭数据。 它能做什么（概览） 创建家务">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Monster Chores - 家务任务积分与奖励">
+<meta property="og:url" content="https://ihogu.com/p/monster-chores/index.html">
+<meta property="og:site_name" content="👋定制开发@Harry-AI自动化定制">
+<meta property="og:description" content="让家务变有趣：家务清单 + 积分 + 奖励。 分配家务、审核完成，把努力变成积分。 简洁的家庭家务与奖励追踪器，可选 iCloud 家庭同步。  简短介绍Monster Chores 帮助家庭把日常家务变成“积分 + 奖励”的简单体系。家长创建家务与奖励，孩子完成家务（可选上传照片），家长审核后发放积分。支持统计进度，并可选用 iCloud 在多设备间同步家庭数据。 它能做什么（概览） 创建家务">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG">
+<meta property="article:published_time" content="2026-01-01T16:00:00.000Z">
+<meta property="article:modified_time" content="2026-05-21T08:36:48.354Z">
+<meta property="article:author" content="Harry">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Monster Chores - 家务任务积分与奖励",
+  "url": "https://ihogu.com/p/monster-chores/",
+  "image": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG",
+  "datePublished": "2026-01-01T16:00:00.000Z",
+  "dateModified": "2026-05-21T08:36:48.354Z",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Harry",
+      "url": "https://ihogu.com/"
+    }
+  ]
+}</script><link rel="shortcut icon" href="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/favicon.ico"><link rel="canonical" href="https://ihogu.com/p/monster-chores/index.html"><link rel="preconnect"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="/pluginsSrc/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="/pluginsSrc/@fancyapps/ui/dist/fancybox/fancybox.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'undefined')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'undefined')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.json","preload":true,"top_n_per_article":1,"unescape":true,"languages":{"hits_empty":"未找到符合您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇项目"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: '/pluginsSrc/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'Monster Chores - 家务任务积分与奖励',
+  isHighlightShrink: false,
+  isToc: false,
+  pageType: 'post'
+}</script><link rel="stylesheet" href="https://ihogu.com/my/theme/css/work.css"><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="👋定制开发@Harry-AI自动化定制" type="application/atom+xml">
+</head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+btf.addGlobalFn('pjaxSend', () => {
+  Pace.restart()
+}, 'pace_restart')
+
+</script><link rel="stylesheet" href="/pluginsSrc/pace-js/themes/blue/pace-theme-minimal.css"/><script src="/pluginsSrc/pace-js/pace.min.js"></script><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/avatar.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">项目</div><div class="length-num">37</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">24</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/about/"><span> 🤖Ai</span></a></div><div class="menus_item"><a class="site-page" href="/"><span> 🏠案例</span></a></div><div class="menus_item"><a class="site-page" href="/about/partner.html"><span> 🤝伙伴</span></a></div><div class="menus_item"><a class="site-page" href="/about/service.html"><span> 🧑‍💻服务</span></a></div><div class="menus_item"><a class="site-page" href="/contact/work.html"><span> 📬联系</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">👋定制开发@Harry-AI自动化定制</span></a><a class="nav-page-title" href="/"><span class="site-name">Monster Chores - 家务任务积分与奖励</span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/about/"><span> 🤖Ai</span></a></div><div class="menus_item"><a class="site-page" href="/"><span> 🏠案例</span></a></div><div class="menus_item"><a class="site-page" href="/about/partner.html"><span> 🤝伙伴</span></a></div><div class="menus_item"><a class="site-page" href="/about/service.html"><span> 🧑‍💻服务</span></a></div><div class="menus_item"><a class="site-page" href="/contact/work.html"><span> 📬联系</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav></header><main class="layout hide-aside" id="content-inner"><div id="post"><div id="post-info"><h1 class="post-title">Monster Chores - 家务任务积分与奖励</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2026-01-01T16:00:00.000Z" title="发表于 2026-01-02 00:00:00">2026-01-02</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2026-05-21T08:36:48.354Z" title="更新于 2026-05-21 16:36:48">2026-05-21</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/APP/">APP</a></span></div><div class="meta-secondline"></div></div></div><article class="container post-content" id="article-container"><ul>
+<li>让家务变有趣：家务清单 + 积分 + 奖励。</li>
+<li>分配家务、审核完成，把努力变成积分。</li>
+<li>简洁的家庭家务与奖励追踪器，可选 iCloud 家庭同步。</li>
+</ul>
+<h2 id="简短介绍"><a href="#简短介绍" class="headerlink" title="简短介绍"></a>简短介绍</h2><p>Monster Chores 帮助家庭把日常家务变成“积分 + 奖励”的简单体系。家长创建家务与奖励，孩子完成家务（可选上传照片），家长审核后发放积分。支持统计进度，并可选用 iCloud 在多设备间同步家庭数据。</p>
+<h2 id="它能做什么（概览）"><a href="#它能做什么（概览）" class="headerlink" title="它能做什么（概览）"></a>它能做什么（概览）</h2><ul>
+<li>创建家务任务：设置积分与重复频率（一次&#x2F;每天&#x2F;每周）。</li>
+<li>孩子标记完成，家长审核并确认发放积分。</li>
+<li>记录积分流水，并在家庭“商店”兑换奖励。</li>
+<li>查看每周活跃图表与简单排行榜。</li>
+<li>支持多个孩子与不同角色&#x2F;账号切换。</li>
+<li>支持 JSON 导入&#x2F;导出进行备份与恢复。</li>
+</ul>
+<h2 id="核心功能（商店文案）"><a href="#核心功能（商店文案）" class="headerlink" title="核心功能（商店文案）"></a>核心功能（商店文案）</h2><ul>
+<li><strong>家长&#x2F;孩子角色</strong>：分配与完成职责清晰。</li>
+<li><strong>审核机制</strong>：待审核列表，查看详情，一键通过发放积分。</li>
+<li><strong>积分与流水</strong>：记录获得&#x2F;花费&#x2F;调整的完整历史。</li>
+<li><strong>奖励商店</strong>：定义奖励、设置积分成本、完成兑换。</li>
+<li><strong>统计与图表</strong>：每周活跃、当周积分、最近完成记录。</li>
+<li><strong>家庭管理</strong>：创建家庭、邀请成员、切换家庭。</li>
+<li><strong>可选 iCloud 同步</strong>：通过 iCloud&#x2F;CloudKit 共享家庭数据（邀请链接）。</li>
+<li><strong>数据可迁移</strong>：JSON 导出&#x2F;导入（注意：照片不包含在 JSON 中）。</li>
+</ul>
+<h2 id="价值点"><a href="#价值点" class="headerlink" title="价值点"></a>价值点</h2><ul>
+<li><strong>更有动力</strong>：积分与奖励让习惯更容易坚持。</li>
+<li><strong>更公平</strong>：审核 + 历史记录让规则一致。</li>
+<li><strong>更可视</strong>：孩子看进度，家长看趋势。</li>
+<li><strong>可选同步</strong>：默认本地使用，需要时再开启 iCloud 家庭共享。</li>
+</ul>
+<h2 id="关键词（元数据）"><a href="#关键词（元数据）" class="headerlink" title="关键词（元数据）"></a>关键词（元数据）</h2><p>家务清单、家务、孩子家务、零花钱、家庭、奖励、积分、习惯追踪、育儿、家庭管理</p>
+<hr>
+<ul>
+<li>App Store： <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/id6757512865">Monster Chores</a></li>
+</ul>
+<div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">
+    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/2.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/3.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/4.PNG","alt":"","title":""}]</div>
+  </div>
+
+<p><a href="javascript:history.go(-1)">⬅返回</a></p>
+<script>
+// window.open("https://apps.apple.com/us/app/id6756702548");
+// javascript:history.go(-1)
+</script></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>项目作者: </span><span class="post-copyright-info"><a href="https://ihogu.com">Harry</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>项目链接: </span><span class="post-copyright-info"><a href="https://ihogu.com/p/monster-chores/">https://ihogu.com/p/monster-chores/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有项目除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来源 <a href="https://ihogu.com" target="_blank">👋定制开发@Harry-AI自动化定制</a>！</span></div></div><div class="tag_share"><div class="post-share"><div class="addtoany"><div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_wechat"></a><a class="a2a_button_sina_weibo"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_email"></a><a class="a2a_button_copy_link"></a><a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a></div></div><script async="async" src="https://static.addtoany.com/menu/page.js"></script></div></div><nav class="pagination-post" id="pagination"></nav><hr class="custom-hr"/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="gitalk-container"></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2017 - 2026 By Harry</div><script src="/js/harry/index_showmore.js"></script></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="前往评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/pluginsSrc/@fancyapps/ui/dist/fancybox/fancybox.umd.js"></script><div class="js-pjax"><script>(() => {
+  const abcjsInit = () => {
+    const abcjsFn = () => setTimeout(() => {
+      document.querySelectorAll(".abc-music-sheet").forEach(ele => {
+        if (ele.children.length > 0) return
+        ABCJS.renderAbc(ele, ele.innerHTML, {responsive: 'resize'})
+      })
+    }, 100)
+    
+    typeof ABCJS === 'object' ? abcjsFn()
+      : btf.getScript('/pluginsSrc/abcjs/dist/abcjs-basic-min.js').then(abcjsFn)
+  }
+
+  window.pjax ? abcjsInit() : window.addEventListener('load', abcjsInit)
+  btf.addGlobalFn('encrypt', abcjsInit, 'abcjs')
+})()</script><script>(() => {
+  const isShuoshuo = GLOBAL_CONFIG_SITE.pageType === 'shuoshuo'
+  const option = {"createIssueManually":true}
+
+  const commentCount = n => {
+    const isCommentCount = document.querySelector('#post-meta .gitalk-comment-count')
+    if (isCommentCount) {
+      isCommentCount.textContent= n
+    }
+  }
+
+  const initGitalk = (el, path) => {
+    if (isShuoshuo) {
+      window.shuoshuoComment.destroyGitalk = () => {
+        if (el.children.length) {
+          el.innerHTML = ''
+          el.classList.add('no-comment')
+        }
+      }
+    }
+
+    const gitalk = new Gitalk({
+      clientID: 'ca1556ac74a78decc45e',
+      clientSecret: '25534893c034bfc2b3d2134eff7ce2de323c1951',
+      repo: 'harry_gitalk',
+      owner: 'harry-studio',
+      admin: ['harry-studio'],
+      updateCountCallback: commentCount,
+      ...option,
+      id: isShuoshuo ? path : (option && option.id) || '666547baabdb729e8b388572badd1b89'
+    })
+
+    gitalk.render('gitalk-container')
+  }
+
+  const loadGitalk = async(el, path) => {
+    if (typeof Gitalk === 'function') initGitalk(el, path)
+    else {
+      await btf.getCSS('/pluginsSrc/gitalk/dist/gitalk.css')
+      await btf.getScript('/pluginsSrc/gitalk/dist/gitalk.min.js')
+      initGitalk(el, path)
+    }
+  }
+
+  if (isShuoshuo) {
+    'Gitalk' === 'Gitalk'
+      ? window.shuoshuoComment = { loadComment: loadGitalk }
+      : window.loadOtherComment = loadGitalk
+    return
+  }
+
+  if ('Gitalk' === 'Gitalk' || !false) {
+    if (false) btf.loadComment(document.getElementById('gitalk-container'), loadGitalk)
+    else loadGitalk()
+  } else {
+    window.loadOtherComment = loadGitalk
+  }
+})()</script></div><script src="https://ihogu.com/my/theme/js/work.js"></script><script src="/pluginsSrc/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = false;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="请输入要搜索的内容" type="text"/></div></div><hr/><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div></body></html>

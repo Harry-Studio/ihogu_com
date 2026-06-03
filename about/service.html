@@ -1,0 +1,582 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>🧑‍💻服务 | 👋定制开发@Harry-AI自动化定制</title><meta name="author" content="Harry"><meta name="copyright" content="Harry"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><script src="/js/allpost_data.js"></script><meta name="description" content="AI 应用开发、小程序&#x2F;APP、网站与自动化交付，一站式从方案到上线。">
+<meta property="og:type" content="website">
+<meta property="og:title" content="🧑‍💻服务">
+<meta property="og:url" content="https://ihogu.com/about/service.html">
+<meta property="og:site_name" content="👋定制开发@Harry-AI自动化定制">
+<meta property="og:description" content="AI 应用开发、小程序&#x2F;APP、网站与自动化交付，一站式从方案到上线。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/avatar.png">
+<meta property="article:published_time" content="2019-01-01T13:12:04.000Z">
+<meta property="article:modified_time" content="2026-05-21T08:36:48.356Z">
+<meta property="article:author" content="Harry">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/avatar.png"><link rel="shortcut icon" href="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/favicon.ico"><link rel="canonical" href="https://ihogu.com/about/service.html"><link rel="preconnect"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="/pluginsSrc/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="/pluginsSrc/@fancyapps/ui/dist/fancybox/fancybox.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'undefined')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'undefined')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.json","preload":true,"top_n_per_article":1,"unescape":true,"languages":{"hits_empty":"未找到符合您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇项目"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: '/pluginsSrc/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '🧑‍💻服务',
+  isHighlightShrink: false,
+  isToc: false,
+  pageType: 'page'
+}</script><link rel="stylesheet" href="https://ihogu.com/my/theme/css/work.css"><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="👋定制开发@Harry-AI自动化定制" type="application/atom+xml">
+</head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+btf.addGlobalFn('pjaxSend', () => {
+  Pace.restart()
+}, 'pace_restart')
+
+</script><link rel="stylesheet" href="/pluginsSrc/pace-js/themes/blue/pace-theme-minimal.css"/><script src="/pluginsSrc/pace-js/pace.min.js"></script><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/avatar.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">项目</div><div class="length-num">37</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">24</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/about/"><span> 🤖Ai</span></a></div><div class="menus_item"><a class="site-page" href="/"><span> 🏠案例</span></a></div><div class="menus_item"><a class="site-page" href="/about/partner.html"><span> 🤝伙伴</span></a></div><div class="menus_item"><a class="site-page" href="/about/service.html"><span> 🧑‍💻服务</span></a></div><div class="menus_item"><a class="site-page" href="/contact/work.html"><span> 📬联系</span></a></div></div></div></div><div class="page type-about" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">👋定制开发@Harry-AI自动化定制</span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/about/"><span> 🤖Ai</span></a></div><div class="menus_item"><a class="site-page" href="/"><span> 🏠案例</span></a></div><div class="menus_item"><a class="site-page" href="/about/partner.html"><span> 🤝伙伴</span></a></div><div class="menus_item"><a class="site-page" href="/about/service.html"><span> 🧑‍💻服务</span></a></div><div class="menus_item"><a class="site-page" href="/contact/work.html"><span> 📬联系</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><h1 class="title-seo">🧑‍💻服务</h1></header><main class="layout hide-aside" id="content-inner"><div id="page"><div class="page-title">🧑‍💻服务</div><div class="container" id="article-container"><div class="service-page">
+
+<style>
+/* 服务页样式（仅作用于 .service-page） */
+.service-page {
+  --service-radius: 16px;
+  --service-border: rgba(0, 0, 0, 0.06);
+  --service-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.service-page .service-hero {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 10px 0 18px;
+}
+
+.service-page .service-hero > p {
+  margin: 0;
+}
+
+.service-page .service-hero__text {
+  flex: 1 1 360px;
+  min-width: 280px;
+}
+
+.service-page .service-kicker {
+  opacity: 0.82;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  margin-bottom: 6px;
+}
+
+.service-page .service-title {
+  margin: 0 0 10px;
+  line-height: 1.25;
+}
+
+.service-page .service-subtitle {
+  margin: 0 0 14px;
+  opacity: 0.92;
+}
+
+.service-page .service-hero__img {
+  width: min(220px, 32vw);
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--service-radius);
+  box-shadow: var(--service-shadow);
+}
+
+.service-page .service-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 6px 0 10px;
+}
+
+.service-page .service-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--service-border);
+  background: var(--card-bg, rgba(255, 255, 255, 0.85));
+  color: var(--font-color, #222);
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.service-page .service-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.10);
+}
+
+.service-page .service-btn--primary {
+  border: none;
+  color: #fff;
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+}
+
+.service-page .service-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.service-page .service-badges span {
+  display: inline-flex;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(59, 130, 246, 0.10);
+  border: 1px solid rgba(59, 130, 246, 0.18);
+  font-size: 13px;
+}
+
+.service-page .service-lead {
+  margin: 10px 0 14px;
+  padding: 14px 16px;
+  border-radius: var(--service-radius);
+  border: 1px solid var(--service-border);
+  background: var(--card-bg, rgba(255, 255, 255, 0.85));
+}
+
+.service-page h2 i {
+  margin-right: 8px;
+  opacity: 0.9;
+}
+
+.service-page .service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 16px;
+  margin: 10px auto 0;
+}
+
+.service-page .service-card {
+  padding: 16px 16px 14px;
+  border-radius: var(--service-radius);
+  border: 1px solid var(--service-border);
+  background: var(--card-bg, rgba(255, 255, 255, 0.85));
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.service-page .service-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.10);
+}
+
+.service-page .service-card__head {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.service-page .service-card__icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.95), rgba(139, 92, 246, 0.95));
+  flex: 0 0 auto;
+}
+
+.service-page .service-card__title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.2;
+  margin: 2px 0 4px;
+}
+
+.service-page .service-card__desc {
+  opacity: 0.80;
+  font-size: 13px;
+}
+
+.service-page .service-card ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.service-page .service-card li {
+  margin: 6px 0;
+}
+
+.service-page .service-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.service-page .service-step {
+  padding: 12px 14px;
+  border-radius: var(--service-radius);
+  border: 1px solid var(--service-border);
+  background: var(--card-bg, rgba(255, 255, 255, 0.85));
+}
+
+.service-page .service-step b {
+  display: inline-flex;
+  width: 22px;
+  height: 22px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: rgba(59, 130, 246, 0.12);
+  margin-right: 6px;
+}
+
+.service-page .service-footer {
+  margin-top: 18px;
+}
+
+.service-page .service-footer__card {
+  padding: 16px;
+  border-radius: calc(var(--service-radius) + 2px);
+  border: 1px solid rgba(139, 92, 246, 0.25);
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.10), rgba(139, 92, 246, 0.10));
+}
+
+.service-page .service-footer__title {
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.service-page .service-footer__desc {
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
+</style>
+
+<div class="service-hero">
+
+<div class="service-hero__text">
+  <div class="service-kicker">Harry Work · 外包定制开发</div>
+  <h2 class="service-title">AI 应用落地 · 小程序/APP · 自动化工具</h2>
+  <p class="service-subtitle">
+    小团队交付，重视沟通与可维护性：先把需求落到可执行的方案，再快速迭代上线。
+  </p>
+  <div class="service-cta">
+    <a class="service-btn service-btn--primary" href="/contact/">立即咨询</a>
+    <a class="service-btn" href="/">查看案例</a>
+  </div>
+  <div class="service-badges">
+    <span>需求梳理</span>
+    <span>原型/交互</span>
+    <span>开发交付</span>
+    <span>部署运维</span>
+    <span>长期维护</span>
+  </div>
+</div>
+
+<p><img
+  class="service-hero__img"
+  src="https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/site/img/site_img/top_img/banner_img.gif"
+  alt="Harry Work"
+/></p>
+</div>
+
+<div class="service-lead">
+
+<p>
+	我们专门承接小游戏/小程序/H5/公众号/App 开发，以及 <b>AI 应用开发与自动化</b>。
+	不做花哨包装，只用质量和口碑说话。
+</p>
+</div>
+
+<h2 id="服务范围"><a href="#服务范围" class="headerlink" title=" 服务范围"></a><i class="fas fa-layer-group"></i> 服务范围</h2><div class="service-grid">
+
+<div class="service-card">
+  <div class="service-card__head">
+    <div class="service-card__icon"><i class="fas fa-robot"></i></div>
+    <div>
+      <div class="service-card__title">AI 应用开发 / 落地</div>
+      <div class="service-card__desc">把模型真正接到业务里：可用、可控、可持续迭代</div>
+    </div>
+  </div>
+  <ul>
+    <li>企业知识库/RAG：文档问答、客服助手、内部检索（权限/日志/可追溯）</li>
+    <li>Agent/工作流：多步骤自动化、工具调用、报表生成、内容生产</li>
+    <li>开源模型部署：Ollama / vLLM / GPU 推理部署、推理加速与成本优化</li>
+    <li>ComfyUI 工作流：AIGC 图像批处理、海报/电商图、自动出图管线</li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <div class="service-card__head">
+    <div class="service-card__icon"><i class="fas fa-mobile-alt"></i></div>
+    <div>
+      <div class="service-card__title">移动端 / 小程序</div>
+      <div class="service-card__desc">面向增长与转化的端侧体验与稳定性</div>
+    </div>
+  </div>
+  <ul>
+    <li>Android / iOS App 设计与开发（含上架协助）</li>
+    <li>微信 / 支付宝 / 抖音小程序：下单、预约、会员、内容、工具类</li>
+    <li>小游戏：答题、合成、经营、休闲类玩法与活动页</li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <div class="service-card__head">
+    <div class="service-card__icon"><i class="fas fa-globe"></i></div>
+    <div>
+      <div class="service-card__title">H5 / 公众号 / Web</div>
+      <div class="service-card__desc">活动页、官网、表单、内容系统与业务后台</div>
+    </div>
+  </div>
+  <ul>
+    <li>H5 活动页/落地页：数据统计、分享裂变、表单收集</li>
+    <li>公众号开发：菜单、消息、支付、模板消息/订阅消息</li>
+    <li>管理后台：权限、订单、内容、数据面板</li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <div class="service-card__head">
+    <div class="service-card__icon"><i class="fas fa-bolt"></i></div>
+    <div>
+      <div class="service-card__title">自动化 / 工具 / 插件</div>
+      <div class="service-card__desc">提升效率，把重复工作“程序化”</div>
+    </div>
+  </div>
+  <ul>
+    <li>办公自动化：Python + Excel + 报表/爬取/对账/批处理</li>
+    <li>浏览器插件 / 油猴脚本：采集、填表、批量操作、工作台增强</li>
+    <li>技术选型顾问：低代码评估、数据库/架构建议、可行性拆解</li>
+  </ul>
+</div>
+
+<div class="service-card">
+  <div class="service-card__head">
+    <div class="service-card__icon"><i class="fas fa-server"></i></div>
+    <div>
+      <div class="service-card__title">部署 / 运维 / 配套</div>
+      <div class="service-card__desc">从上线到稳定运行：可观测、可扩展</div>
+    </div>
+  </div>
+  <ul>
+    <li>服务器部署/优化：Nginx、HTTPS、CDN、日志与告警</li>
+    <li>域名注册、ICP备案、企业邮箱等配套支持</li>
+    <li>长期维护：迭代、Bug 修复、性能与安全加固</li>
+  </ul>
+</div>
+</div>
+
+<h2 id="合作流程"><a href="#合作流程" class="headerlink" title=" 合作流程"></a><i class="fas fa-route"></i> 合作流程</h2><div class="service-steps">
+
+<div class="service-step"><b>1.</b> 需求沟通 → 产出功能清单/报价/排期</div>
+<div class="service-step"><b>2.</b> 原型与方案 → 确认页面/交互/接口</div>
+<div class="service-step"><b>3.</b> 开发联调 → 周期内同步进度与可演示版本</div>
+<div class="service-step"><b>4.</b> 上线交付 → 部署、文档、培训与售后维护</div>
+</div>
+
+<div class="service-footer">
+
+<div class="service-footer__card">
+  <div class="service-footer__title"><i class="fas fa-comments"></i> 想做 AI 相关项目？</div>
+  <div class="service-footer__desc">把你的业务、数据形态和目标效果发我，我会给出可落地的实现建议。</div>
+  <a class="service-btn service-btn--primary" href="../contact/"> &nbsp;&nbsp;&nbsp;联 系 我 &nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+
+</div>
+
+<hr>
+</div><hr class="custom-hr"/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="gitalk-container"></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2017 - 2026 By Harry</div><script src="/js/harry/index_showmore.js"></script></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="前往评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/pluginsSrc/@fancyapps/ui/dist/fancybox/fancybox.umd.js"></script><div class="js-pjax"><script>(() => {
+  const abcjsInit = () => {
+    const abcjsFn = () => setTimeout(() => {
+      document.querySelectorAll(".abc-music-sheet").forEach(ele => {
+        if (ele.children.length > 0) return
+        ABCJS.renderAbc(ele, ele.innerHTML, {responsive: 'resize'})
+      })
+    }, 100)
+    
+    typeof ABCJS === 'object' ? abcjsFn()
+      : btf.getScript('/pluginsSrc/abcjs/dist/abcjs-basic-min.js').then(abcjsFn)
+  }
+
+  window.pjax ? abcjsInit() : window.addEventListener('load', abcjsInit)
+  btf.addGlobalFn('encrypt', abcjsInit, 'abcjs')
+})()</script><script>(() => {
+  const isShuoshuo = GLOBAL_CONFIG_SITE.pageType === 'shuoshuo'
+  const option = {"createIssueManually":true}
+
+  const commentCount = n => {
+    const isCommentCount = document.querySelector('#post-meta .gitalk-comment-count')
+    if (isCommentCount) {
+      isCommentCount.textContent= n
+    }
+  }
+
+  const initGitalk = (el, path) => {
+    if (isShuoshuo) {
+      window.shuoshuoComment.destroyGitalk = () => {
+        if (el.children.length) {
+          el.innerHTML = ''
+          el.classList.add('no-comment')
+        }
+      }
+    }
+
+    const gitalk = new Gitalk({
+      clientID: 'ca1556ac74a78decc45e',
+      clientSecret: '25534893c034bfc2b3d2134eff7ce2de323c1951',
+      repo: 'harry_gitalk',
+      owner: 'harry-studio',
+      admin: ['harry-studio'],
+      updateCountCallback: commentCount,
+      ...option,
+      id: isShuoshuo ? path : (option && option.id) || '8e7781563247e3258f02fe18f2075b0b'
+    })
+
+    gitalk.render('gitalk-container')
+  }
+
+  const loadGitalk = async(el, path) => {
+    if (typeof Gitalk === 'function') initGitalk(el, path)
+    else {
+      await btf.getCSS('/pluginsSrc/gitalk/dist/gitalk.css')
+      await btf.getScript('/pluginsSrc/gitalk/dist/gitalk.min.js')
+      initGitalk(el, path)
+    }
+  }
+
+  if (isShuoshuo) {
+    'Gitalk' === 'Gitalk'
+      ? window.shuoshuoComment = { loadComment: loadGitalk }
+      : window.loadOtherComment = loadGitalk
+    return
+  }
+
+  if ('Gitalk' === 'Gitalk' || !false) {
+    if (false) btf.loadComment(document.getElementById('gitalk-container'), loadGitalk)
+    else loadGitalk()
+  } else {
+    window.loadOtherComment = loadGitalk
+  }
+})()</script></div><script src="https://ihogu.com/my/theme/js/work.js"></script><script src="/pluginsSrc/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = false;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="请输入要搜索的内容" type="text"/></div></div><hr/><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div></body></html>
