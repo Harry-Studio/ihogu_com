@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>👋定制开发@Harry-AI自动化定制</title>
+  <title>👋iHogu Studio — Apps, Websites &amp; Automation</title>
   
-  <subtitle>AI自动化，让业务无限扩展 AI应用开发 独立开发 青岛Ai定制开发</subtitle>
+  <subtitle>AI automation, enabling unlimited business expansion AI application development Independent development Qingdao AI custom development</subtitle>
   <link href="https://ihogu.com/atom.xml" rel="self"/>
   
   <link href="https://ihogu.com/"/>
-  <updated>2026-05-21T08:36:48.347Z</updated>
+  <updated>2026-06-03T16:19:58.000Z</updated>
   <id>https://ihogu.com/</id>
   
   <author>
@@ -17,44 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>英语字幕视频学习</title>
+    <title>English Subtitle Video Learning</title>
     <link href="https://ihogu.com/p/english-subtitle-video-learning/"/>
     <id>https://ihogu.com/p/english-subtitle-video-learning/</id>
     <published>2026-02-05T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.347Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<p>刷英语卡片学口语,双语字幕逐句跟读,重点词汇生成卡片复习;发音循环播放,自动统计进度,碎片时间高效提升听说</p><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/3.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/4.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/5.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/6.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/7.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/qrcode.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Swipe English cards to learn speaking,follow bilingual subtitles sentence by sentence,generate flashcards for key vocabulary review;loop pronunciation playback,automatically track progress,and efficiently improve listening and speaking in spare time</p><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/3.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/5.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/6.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/7.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/qrcode.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;刷英语卡片学口语,双语字幕逐句跟读,重点词汇生成卡片复习;发音循环播放,自动统计进度,碎片时间高效提升听说&lt;/p&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;10&quot; </summary>
+    <summary type="html">&lt;p&gt;Swipe English cards to learn speaking,follow bilingual subtitles sentence by sentence,generate flashcards for key vocabulary review;loop </summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="教育" scheme="https://ihogu.com/tags/%E6%95%99%E8%82%B2/"/>
+    <category term="Education" scheme="https://ihogu.com/tags/Education/"/>
     
   </entry>
   
   <entry>
-    <title>WealthTrees - 私人资产追踪</title>
+    <title>WealthTrees - Personal Asset Tracking</title>
     <link href="https://ihogu.com/p/wealthtrees/"/>
     <id>https://ihogu.com/p/wealthtrees/</id>
     <published>2026-01-02T17:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.354Z</updated>
+    <updated>2026-06-03T14:41:41.883Z</updated>
     
-    <content type="html"><![CDATA[<p>WealthTrees 是一款轻量级个人财务应用，用“树状结构”来管理资产：先分组、再放入具体资产，帮助你快速看清总资产与配置占比。支持盈亏追踪、结构拆分统计，并可按需开启多设备同步。</p><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>WealthTrees 帮你“一眼看懂”自己的资产结构。</p><p>你可以用简单的“树”模型搭建个人资产：创建分组（如现金、投资、房产等），并在分组下添加资产条目。在一个页面查看总额、占比和表现。</p><p>核心功能：</p><ul><li>分组 + 资产条目管理</li><li>总资产与配置占比拆分</li><li>盈亏追踪（金额与百分比）</li><li>多币种支持与汇率</li><li>可选的多设备同步</li><li>数据导出与分享</li></ul><p>整体设计追求轻量与易用：随手更新，立刻清晰。</p><p><strong>下载 WealthTrees，开始你的私人资产管理之旅！</strong></p><ul><li>App Store： <a href="https://apps.apple.com/us/app/id6756702548">WealthTrees</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-studio.github.io//app/my/project/wealth/1.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/2.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/4.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/3.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/5.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/6.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/wealth/7.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回</a></p><script>// window.open("https://apps.apple.com/us/app/id6756702548");// javascript:history.go(-1)</script>]]></content>
+    <content type="html"><![CDATA[<p>WealthTrees is a lightweight personal finance app that uses a “tree structure” to manage assets: create groups first, then add specific assets, helping you quickly understand your total assets and allocation ratio. It supports profit&#x2F;loss tracking, structural breakdown statistics, and optional multi-device sync.</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>WealthTrees helps you understand your asset structure at a glance.</p><p>You can use a simple “tree” model to build your personal assets: create groups (such as cash, investments, real estate, etc.) and add asset items under each group. View the total amount, allocation ratio, and performance on one page.</p><p>Core Features:</p><ul><li>Group + asset item management</li><li>Total assets and allocation ratio breakdown</li><li>Profit&#x2F;loss tracking (amount and percentage)</li><li>Multi-currency support and exchange rates</li><li>Optional multi-device sync</li><li>Data export and sharing</li></ul><p>The overall design focuses on being lightweight and easy to use: update anytime, see everything clearly right away.</p><p><strong>Download WealthTrees and start your personal asset management journey!</strong></p><ul><li>App Store: <a href="https://apps.apple.com/us/app/id6756702548">WealthTrees</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/3.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/5.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/6.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/7.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back</a></p><script>// window.open("https://apps.apple.com/us/app/id6756702548");// javascript:history.go(-1)</script>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;WealthTrees 是一款轻量级个人财务应用，用“树状结构”来管理资产：先分组、再放入具体资产，帮助你快速看清总资产与配置占比。支持盈亏追踪、结构拆分统计，并可按需开启多设备同步。&lt;/p&gt;
-&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerl</summary>
+    <summary type="html">&lt;p&gt;WealthTrees is a lightweight personal finance app that uses a “tree structure” to manage assets: create groups first, then add specific a</summary>
       
     
     
@@ -62,28 +60,26 @@
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="财富" scheme="https://ihogu.com/tags/%E8%B4%A2%E5%AF%8C/"/>
+    <category term="Wealth" scheme="https://ihogu.com/tags/Wealth/"/>
     
   </entry>
   
   <entry>
-    <title>Monster Chores - 家务任务积分与奖励</title>
+    <title>Monster Chores - Chore Points and Rewards</title>
     <link href="https://ihogu.com/p/monster-chores/"/>
     <id>https://ihogu.com/p/monster-chores/</id>
     <published>2026-01-01T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.354Z</updated>
+    <updated>2026-06-03T14:41:50.740Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>让家务变有趣：家务清单 + 积分 + 奖励。</li><li>分配家务、审核完成，把努力变成积分。</li><li>简洁的家庭家务与奖励追踪器，可选 iCloud 家庭同步。</li></ul><h2 id="简短介绍"><a href="#简短介绍" class="headerlink" title="简短介绍"></a>简短介绍</h2><p>Monster Chores 帮助家庭把日常家务变成“积分 + 奖励”的简单体系。家长创建家务与奖励，孩子完成家务（可选上传照片），家长审核后发放积分。支持统计进度，并可选用 iCloud 在多设备间同步家庭数据。</p><h2 id="它能做什么（概览）"><a href="#它能做什么（概览）" class="headerlink" title="它能做什么（概览）"></a>它能做什么（概览）</h2><ul><li>创建家务任务：设置积分与重复频率（一次&#x2F;每天&#x2F;每周）。</li><li>孩子标记完成，家长审核并确认发放积分。</li><li>记录积分流水，并在家庭“商店”兑换奖励。</li><li>查看每周活跃图表与简单排行榜。</li><li>支持多个孩子与不同角色&#x2F;账号切换。</li><li>支持 JSON 导入&#x2F;导出进行备份与恢复。</li></ul><h2 id="核心功能（商店文案）"><a href="#核心功能（商店文案）" class="headerlink" title="核心功能（商店文案）"></a>核心功能（商店文案）</h2><ul><li><strong>家长&#x2F;孩子角色</strong>：分配与完成职责清晰。</li><li><strong>审核机制</strong>：待审核列表，查看详情，一键通过发放积分。</li><li><strong>积分与流水</strong>：记录获得&#x2F;花费&#x2F;调整的完整历史。</li><li><strong>奖励商店</strong>：定义奖励、设置积分成本、完成兑换。</li><li><strong>统计与图表</strong>：每周活跃、当周积分、最近完成记录。</li><li><strong>家庭管理</strong>：创建家庭、邀请成员、切换家庭。</li><li><strong>可选 iCloud 同步</strong>：通过 iCloud&#x2F;CloudKit 共享家庭数据（邀请链接）。</li><li><strong>数据可迁移</strong>：JSON 导出&#x2F;导入（注意：照片不包含在 JSON 中）。</li></ul><h2 id="价值点"><a href="#价值点" class="headerlink" title="价值点"></a>价值点</h2><ul><li><strong>更有动力</strong>：积分与奖励让习惯更容易坚持。</li><li><strong>更公平</strong>：审核 + 历史记录让规则一致。</li><li><strong>更可视</strong>：孩子看进度，家长看趋势。</li><li><strong>可选同步</strong>：默认本地使用，需要时再开启 iCloud 家庭共享。</li></ul><h2 id="关键词（元数据）"><a href="#关键词（元数据）" class="headerlink" title="关键词（元数据）"></a>关键词（元数据）</h2><p>家务清单、家务、孩子家务、零花钱、家庭、奖励、积分、习惯追踪、育儿、家庭管理</p><hr><ul><li>App Store： <a href="https://apps.apple.com/us/app/id6757512865">Monster Chores</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/2.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/3.PNG","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/4.PNG","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回</a></p><script>// window.open("https://apps.apple.com/us/app/id6756702548");// javascript:history.go(-1)</script>]]></content>
+    <content type="html"><![CDATA[<ul><li>Make chores fun: chore lists + points + rewards.</li><li>Assign chores, review completion, and turn effort into points.</li><li>A clean family chore and reward tracker with optional iCloud family sync.</li></ul><h2 id="Brief-Introduction"><a href="#Brief-Introduction" class="headerlink" title="Brief Introduction"></a>Brief Introduction</h2><p>Monster Chores helps families turn daily chores into a simple “points + rewards” system. Parents create chores and rewards, children complete chores (optionally uploading photos), and parents review them before awarding points. It supports progress statistics and optional iCloud sync to share family data across devices.</p><h2 id="What-It-Can-Do-Overview"><a href="#What-It-Can-Do-Overview" class="headerlink" title="What It Can Do (Overview)"></a>What It Can Do (Overview)</h2><ul><li>Create chore tasks: set points and repeat frequency (once&#x2F;daily&#x2F;weekly).</li><li>Children mark tasks as completed, and parents review and confirm point rewards.</li><li>Track point transactions and redeem rewards in the family “store”.</li><li>View weekly activity charts and a simple leaderboard.</li><li>Support multiple children and switching between different roles&#x2F;accounts.</li><li>Support JSON import&#x2F;export for backup and recovery.</li></ul><h2 id="Core-Features-Store-Copy"><a href="#Core-Features-Store-Copy" class="headerlink" title="Core Features (Store Copy)"></a>Core Features (Store Copy)</h2><ul><li><strong>Parent&#x2F;Child Roles</strong>: Clear assignment and completion of responsibilities.</li><li><strong>Review System</strong>: Pending review list, view details, and approve with one tap to award points.</li><li><strong>Points and Transaction History</strong>: Record the full history of points earned&#x2F;spent&#x2F;adjusted.</li><li><strong>Reward Store</strong>: Define rewards, set point costs, and complete redemptions.</li><li><strong>Statistics and Charts</strong>: Weekly activity, points for the current week, and recent completion records.</li><li><strong>Family Management</strong>: Create families, invite members, and switch families.</li><li><strong>Optional iCloud Sync</strong>: Share family data through iCloud&#x2F;CloudKit (invitation link).</li><li><strong>Data Migration Supported</strong>: JSON export&#x2F;import (note: photos are not included in JSON).</li></ul><h2 id="Value-Points"><a href="#Value-Points" class="headerlink" title="Value Points"></a>Value Points</h2><ul><li><strong>More Motivation</strong>: Points and rewards make habits easier to maintain.</li><li><strong>More Fairness</strong>: Reviews + history keep rules consistent.</li><li><strong>More Visibility</strong>: Children can see progress, and parents can see trends.</li><li><strong>Optional Sync</strong>: Local use by default; enable iCloud Family Sharing only when needed.</li></ul><h2 id="Keywords-Metadata"><a href="#Keywords-Metadata" class="headerlink" title="Keywords (Metadata)"></a>Keywords (Metadata)</h2><p>chore list, chores, kids chores, allowance, family, rewards, points, habit tracking, parenting, family management</p><hr><ul><li>App Store: <a href="https://apps.apple.com/us/app/id6757512865">Monster Chores</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/monster/1.PNG","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/monster/2.PNG","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/monster/3.PNG","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/monster/4.PNG","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back</a></p><script>// window.open("https://apps.apple.com/us/app/id6756702548");// javascript:history.go(-1)</script>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;让家务变有趣：家务清单 + 积分 + 奖励。&lt;/li&gt;
-&lt;li&gt;分配家务、审核完成，把努力变成积分。&lt;/li&gt;
-&lt;li&gt;简洁的家庭家务与奖励追踪器，可选 iCloud 家庭同步。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;简短介绍&quot;&gt;&lt;a href=&quot;#简短介绍&quot; </summary>
+&lt;li&gt;Make chores fun: chore lists + points + rewards.&lt;/li&gt;
+&lt;li&gt;Assign chores, review completion, and turn effort into points.&lt;/li&gt;
+&lt;li&gt;A</summary>
       
     
     
@@ -94,19 +90,18 @@
   </entry>
   
   <entry>
-    <title>Eve Period Tracker - 优雅的经期追踪应用</title>
+    <title>Eve Period Tracker - Elegant Period Tracking App</title>
     <link href="https://ihogu.com/p/eve-period-tracker/"/>
     <id>https://ihogu.com/p/eve-period-tracker/</id>
     <published>2025-12-31T18:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.354Z</updated>
+    <updated>2026-06-03T14:41:21.540Z</updated>
     
-    <content type="html"><![CDATA[<p>Eve Period 是一款面向女性的经期记录与管理应用，采用原生 SwiftUI 构建，提供简洁、私密、可靠的周期追踪体验。</p><h3 id="亮点"><a href="#亮点" class="headerlink" title="亮点"></a>亮点</h3><ul><li>周期日历 + 智能预测</li><li>快速记录开始&#x2F;结束，并支持备注</li><li>本地提醒与邮件提醒，可自定义时间</li><li>iCloud 私有同步 + JSON 导入&#x2F;导出</li><li>中英文切换，无广告、无追踪</li></ul><h3 id="为什么选择它"><a href="#为什么选择它" class="headerlink" title="为什么选择它"></a>为什么选择它</h3><ul><li>原生 SwiftUI 体验，流畅快速</li><li>数据存放在你的 iCloud 私有空间，端到端加密</li><li>免费使用：无广告、无订阅</li><li>数据统计清晰：平均周期、最短&#x2F;最长、下次经期倒计时</li></ul><h3 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h3><ol><li>点击“经期开始”与“经期结束”完成记录。</li><li>在设置中配置提醒时间与提前天数。</li><li>需要备份&#x2F;换机时，可随时导出 JSON 或导入迁移。</li></ol><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li>SwiftUI + SwiftData，CloudKit 私有数据库</li><li>UNUserNotificationCenter 本地提醒，支持可选的邮件提醒</li></ul><p><strong>下载 Eve Period Tracker，开启你的智能周期管理之旅！</strong></p><ul><li>App Store： <a href="https://apps.apple.com/us/app/id6756556989">Eve Period Tracker</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-studio.github.io//app/my/project/eve-period-tracker/1.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/eve-period-tracker/2.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/eve-period-tracker/4.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/eve-period-tracker/3.jpg","alt":"","title":""},{"url":"https://harry-studio.github.io//app/my/project/eve-period-tracker/5.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回</a></p><script>// window.open("https://apps.apple.com/us/app/id6756556989");// javascript:history.go(-1)</script>]]></content>
+    <content type="html"><![CDATA[<p>Eve Period is a period tracking and management app designed for women. Built with native SwiftUI, it provides a clean, private, and reliable cycle tracking experience.</p><h3 id="Highlights"><a href="#Highlights" class="headerlink" title="Highlights"></a>Highlights</h3><ul><li>Cycle calendar + smart predictions</li><li>Quickly record start&#x2F;end dates, with notes supported</li><li>Local reminders and email reminders, with customizable time</li><li>Private iCloud sync + JSON import&#x2F;export</li><li>Chinese&#x2F;English switching, no ads, no tracking</li></ul><h3 id="Why-Choose-It"><a href="#Why-Choose-It" class="headerlink" title="Why Choose It"></a>Why Choose It</h3><ul><li>Native SwiftUI experience, smooth and fast</li><li>Data is stored in your private iCloud space with end-to-end encryption</li><li>Free to use: no ads, no subscriptions</li><li>Clear data statistics: average cycle, shortest&#x2F;longest cycle, countdown to next period</li></ul><h3 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h3><ol><li>Tap “Period Start” and “Period End” to complete a record.</li><li>Configure reminder time and advance days in Settings.</li><li>When you need to back up or switch devices, you can export JSON or import data anytime for migration.</li></ol><h3 id="Tech-Stack"><a href="#Tech-Stack" class="headerlink" title="Tech Stack"></a>Tech Stack</h3><ul><li>SwiftUI + SwiftData, CloudKit private database</li><li>UNUserNotificationCenter local reminders, with optional email reminders</li></ul><p><strong>Download Eve Period Tracker and start your smart cycle management journey!</strong></p><ul><li>App Store: <a href="https://apps.apple.com/us/app/id6756556989">Eve Period Tracker</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/3.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/5.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back</a></p><script>// window.open("https://apps.apple.com/us/app/id6756556989");// javascript:history.go(-1)</script>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Eve Period 是一款面向女性的经期记录与管理应用，采用原生 SwiftUI 构建，提供简洁、私密、可靠的周期追踪体验。&lt;/p&gt;
-&lt;h3 id=&quot;亮点&quot;&gt;&lt;a href=&quot;#亮点&quot; class=&quot;headerlink&quot; title=&quot;亮点&quot;&gt;&lt;/a&gt;亮点&lt;/h3&gt;&lt;u</summary>
+    <summary type="html">&lt;p&gt;Eve Period is a period tracking and management app designed for women. Built with native SwiftUI, it provides a clean, private, and relia</summary>
       
     
     
@@ -114,222 +109,210 @@
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="健康" scheme="https://ihogu.com/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="Health" scheme="https://ihogu.com/tags/Health/"/>
     
   </entry>
   
   <entry>
-    <title>Ai证件照合成,图片修改文字,一键换发型</title>
+    <title>AI ID Photo Generation, Image Text Editing, One-Click Hairstyle Change</title>
     <link href="https://ihogu.com/p/ai-id-photo-generation-text-edit-hairstyle/"/>
     <id>https://ihogu.com/p/ai-id-photo-generation-text-edit-hairstyle/</id>
     <published>2025-11-29T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.347Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>ComfyUi</li><li>极速证件照生成</li><li>一键换装,换发型等</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/3.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/4.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/5.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/6.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/7.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>ComfyUi</li><li>Ultra-fast ID photo generation</li><li>One-click outfit changes, hairstyle changes, and more</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/3.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/5.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/6.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/7.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;ComfyUi&lt;/li&gt;
-&lt;li&gt;极速证件照生成&lt;/li&gt;
-&lt;li&gt;一键换装,换发型等&lt;/li&gt;
+&lt;li&gt;Ultra-fast ID photo generation&lt;/li&gt;
+&lt;li&gt;One-click outfit changes, hairstyle changes, and more&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;1</summary>
+&lt;div clas</summary>
       
     
     
     
-    <category term="Ai应用" scheme="https://ihogu.com/categories/Ai%E5%BA%94%E7%94%A8/"/>
+    <category term="AI Application" scheme="https://ihogu.com/categories/AI-Application/"/>
     
     
-    <category term="IT科技" scheme="https://ihogu.com/tags/IT%E7%A7%91%E6%8A%80/"/>
+    <category term="IT Technology" scheme="https://ihogu.com/tags/IT-Technology/"/>
     
   </entry>
   
   <entry>
-    <title>视频批量融帧剪辑特效自动化助手</title>
+    <title>Video Batch Frame Blending, Frame Interpolation, and Editing Automation Assistant</title>
     <link href="https://ihogu.com/p/video-batch-frame-blend-editing-assistant/"/>
     <id>https://ihogu.com/p/video-batch-frame-blend-editing-assistant/</id>
     <published>2025-11-10T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.347Z</updated>
+    <updated>2026-06-04T01:12:17.883Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>视频处理：可设置视频源目录、拍摄视频目录、输出目录；支持批量处理，能设置插帧浮动、间隔帧数、跳过开始帧数等参数。</p></li><li><p>文字配置：可开启在视频上、中、下位置加文字，设置字体大小、颜色、位置、加粗、描边粗细及颜色，还能选择字体文件。</p></li><li><p>尺寸放大：图片未明确展示，但推测应有相关功能。</p></li><li><p>视频转图片：选择视频目录和图片输出目录，可按视频保存，将分离图片存到对应视频名字文件夹，或全部输出到指定目录。</p></li><li><p>系统配置：可选择硬件加速模式为 CPU，可开启解码、编码硬件加速并保存配置。</p></li><li><p>账号与视频管理：选择账号文件夹，可删除原视频；支持定时发布，设置封面图模式。</p></li><li><p>上传设置：设置上传超时时间、账号单次上传视频数量、账号循环次数。</p></li><li><p>任务执行：可查看任务执行状态，包括当前文件夹信息、各账号视频数量等，可停止任务执行。</p></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/3.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/4.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/5.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>Video processing: allows setting the source video directory, filmed video directory, and output directory; supports batch processing and parameters such as frame interpolation fluctuation, frame interval, and number of starting frames to skip.</p></li><li><p>Text configuration: enables adding text to the top, middle, or bottom of videos, with settings for font size, color, position, bold styling, outline thickness and color, and font file selection.</p></li><li><p>Size upscaling: not clearly shown in the images, but related functionality is presumed to be available.</p></li><li><p>Video to images: select a video directory and image output directory; images can be saved by video into folders named after the corresponding video, or all exported to a specified directory.</p></li><li><p>System configuration: allows selecting CPU as the hardware acceleration mode, enabling decoding and encoding hardware acceleration, and saving configurations.</p></li><li><p>Account and video management: select account folders and delete original videos; supports scheduled publishing and cover image mode settings.</p></li><li><p>Upload settings: set upload timeout, number of videos uploaded per account per run, and account loop count.</p></li><li><p>Task execution: view task execution status, including current folder information and video counts for each account; tasks can be stopped.</p></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/2.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;视频处理：可设置视频源目录、拍摄视频目录、输出目录；支持批量处理，能设置插帧浮动、间隔帧数、跳过开始帧数等参数。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;文字配置：可开启在视频上、中、下位置加文字，设置字体大小、颜色、位置、加粗、描边粗细及颜色，还能选择字体文件</summary>
+&lt;li&gt;&lt;p&gt;Video processing: allows setting the source video directory, filmed video directory, and output directory; supports batch proces</summary>
       
     
     
     
-    <category term="Windows软件" scheme="https://ihogu.com/categories/Windows%E8%BD%AF%E4%BB%B6/"/>
+    <category term="Windows Software" scheme="https://ihogu.com/categories/Windows-Software/"/>
     
     
-    <category term="IT科技" scheme="https://ihogu.com/tags/IT%E7%A7%91%E6%8A%80/"/>
+    <category term="IT Technology" scheme="https://ihogu.com/tags/IT-Technology/"/>
     
   </entry>
   
   <entry>
-    <title>Ai克隆数字人 数字人生</title>
+    <title>AI Clone Digital Human, Digital Life</title>
     <link href="https://ihogu.com/p/ai-clone-digital-human-digital-life/"/>
     <id>https://ihogu.com/p/ai-clone-digital-human-digital-life/</id>
     <published>2025-10-29T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.354Z</updated>
+    <updated>2026-06-04T02:13:09.969Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>自建数字人，自动克隆你的声音，克隆你的人像人脸</li><li>Ai配音融合数字人</li><li>数字人生，创意无限</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/1.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/2.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/3.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/4.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/5.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/6.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/7.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/8.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/9.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/10.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/11.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/12.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/13.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/14.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/15.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/16.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/17.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/18.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/19.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/20.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/21.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/22.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/23.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/24.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/25.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/26.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/27.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/qr_code.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Build your own digital human, automatically clone your voice, and clone your portrait and face</li><li>AI voiceover integrated with digital human</li><li>Digital life, unlimited creativity</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuziren/1.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuziren/2.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuziren/3.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuziren/qr_code.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;自建数字人，自动克隆你的声音，克隆你的人像人脸&lt;/li&gt;
-&lt;li&gt;Ai配音融合数字人&lt;/li&gt;
-&lt;li&gt;数字人生，创意无限&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-butto</summary>
+&lt;li&gt;Build your own digital human, automatically clone your voice, and clone your portrait and face&lt;/li&gt;
+&lt;li&gt;AI voiceover integrated wit</summary>
       
     
     
     
-    <category term="Ai应用" scheme="https://ihogu.com/categories/Ai%E5%BA%94%E7%94%A8/"/>
+    <category term="AI Application" scheme="https://ihogu.com/categories/AI-Application/"/>
     
     
-    <category term="IT科技" scheme="https://ihogu.com/tags/IT%E7%A7%91%E6%8A%80/"/>
+    <category term="IT Technology" scheme="https://ihogu.com/tags/IT-Technology/"/>
     
-    <category term="Ai模型" scheme="https://ihogu.com/tags/Ai%E6%A8%A1%E5%9E%8B/"/>
+    <category term="AI Model" scheme="https://ihogu.com/tags/AI-Model/"/>
     
   </entry>
   
   <entry>
-    <title>模板海报在线PS</title>
+    <title>Template Poster Online PS</title>
     <link href="https://ihogu.com/p/template-poster-online-ps/"/>
     <id>https://ihogu.com/p/template-poster-online-ps/</id>
     <published>2024-10-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.353Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>自建Ai</li><li>高质量P图改字,水墨字生成</li><li>图片改字,PDF改字</li><li>换脸&#x2F;写真合成</li><li>PSD文件导入,在线PS</li><li>擦除背景&#x2F;提高清晰度&#x2F;老照片上色&#x2F;手稿填色&#x2F;Ai头像盲盒等</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/3.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/4.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/5.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/6.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/7.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/8.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Self-built AI</li><li>High-quality image text editing and ink-style text generation</li><li>Image text editing, PDF text editing</li><li>Face swapping&#x2F;portrait synthesis</li><li>PSD file import, online PS</li><li>Background erasing&#x2F;clarity enhancement&#x2F;old photo colorization&#x2F;sketch coloring&#x2F;AI avatar blind boxes, and more</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/3.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/5.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/6.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/7.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/8.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;自建Ai&lt;/li&gt;
-&lt;li&gt;高质量P图改字,水墨字生成&lt;/li&gt;
-&lt;li&gt;图片改字,PDF改字&lt;/li&gt;
-&lt;li&gt;换脸&amp;#x2F;写真合成&lt;/li&gt;
-&lt;li&gt;PSD文件导入,在线PS&lt;/li&gt;
-&lt;li&gt;擦除背景&amp;#x2F;提高清晰度&amp;#x2F;老照片上色&amp;#x2</summary>
+&lt;li&gt;Self-built AI&lt;/li&gt;
+&lt;li&gt;High-quality image text editing and ink-style text generation&lt;/li&gt;
+&lt;li&gt;Image text editing, PDF text editing&lt;</summary>
       
     
     
     
-    <category term="Ai应用" scheme="https://ihogu.com/categories/Ai%E5%BA%94%E7%94%A8/"/>
+    <category term="AI Application" scheme="https://ihogu.com/categories/AI-Application/"/>
     
     
-    <category term="IT科技" scheme="https://ihogu.com/tags/IT%E7%A7%91%E6%8A%80/"/>
+    <category term="IT Technology" scheme="https://ihogu.com/tags/IT-Technology/"/>
     
   </entry>
   
   <entry>
-    <title>抖音答题游戏</title>
+    <title>Douyin Quiz Game</title>
     <link href="https://ihogu.com/p/douyin-quiz-game/"/>
     <id>https://ihogu.com/p/douyin-quiz-game/</id>
     <published>2024-08-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.353Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>抖音视频广告激励答题小游戏，抖音直播答题小游戏</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/douyindatixiaoyouxi/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/douyindatixiaoyouxi/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/douyindatixiaoyouxi/3.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上一页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Douyin video ad rewarded quiz mini game, Douyin livestream quiz mini game</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/douyindatixiaoyouxi/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/douyindatixiaoyouxi/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/douyindatixiaoyouxi/3.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;抖音视频广告激励答题小游戏，抖音直播答题小游戏&lt;/li&gt;
+&lt;li&gt;Douyin video ad rewarded quiz mini game, Douyin livestream quiz mini game&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;10&quot; data-first=&quot;10&quot;&gt;
-</summary>
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data</summary>
       
     
     
     
-    <category term="小游戏" scheme="https://ihogu.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    <category term="Mini Game" scheme="https://ihogu.com/categories/Mini-Game/"/>
     
     
-    <category term="社交" scheme="https://ihogu.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="Social" scheme="https://ihogu.com/tags/Social/"/>
     
-    <category term="娱乐" scheme="https://ihogu.com/tags/%E5%A8%B1%E4%B9%90/"/>
+    <category term="Entertainment" scheme="https://ihogu.com/tags/Entertainment/"/>
     
   </entry>
   
   <entry>
-    <title>视频生成字幕Ai助手</title>
+    <title>Video Subtitle AI Assistant</title>
     <link href="https://ihogu.com/p/video-subtitle-ai-helper/"/>
     <id>https://ihogu.com/p/video-subtitle-ai-helper/</id>
     <published>2024-02-29T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.353Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>视频提取,短视频去水印</li><li>视频下载工具,视频转文字帮手</li><li>图片&#x2F;音频&#x2F;转文字,字幕提取</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Video extraction, short-video watermark removal</li><li>Video download tool, video-to-text assistant</li><li>Image&#x2F;audio-to-text conversion, subtitle extraction</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shipin_zhuan_wenzi/shipin_zhuan_wenzi_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;视频提取,短视频去水印&lt;/li&gt;
-&lt;li&gt;视频下载工具,视频转文字帮手&lt;/li&gt;
-&lt;li&gt;图片&amp;#x2F;音频&amp;#x2F;转文字,字幕提取&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; da</summary>
+&lt;li&gt;Video extraction, short-video watermark removal&lt;/li&gt;
+&lt;li&gt;Video download tool, video-to-text assistant&lt;/li&gt;
+&lt;li&gt;Image&amp;#x2F;audio-to-</summary>
       
     
     
     
-    <category term="Ai应用" scheme="https://ihogu.com/categories/Ai%E5%BA%94%E7%94%A8/"/>
+    <category term="AI Application" scheme="https://ihogu.com/categories/AI-Application/"/>
     
     
-    <category term="IT科技" scheme="https://ihogu.com/tags/IT%E7%A7%91%E6%8A%80/"/>
+    <category term="IT Technology" scheme="https://ihogu.com/tags/IT-Technology/"/>
     
   </entry>
   
   <entry>
-    <title>Pushup Log - 俯卧撑计数与统计</title>
+    <title>Pushup Log - Pushup Counting and Statistics</title>
     <link href="https://ihogu.com/p/pushup-log/"/>
     <id>https://ihogu.com/p/pushup-log/</id>
     <published>2023-11-30T19:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.354Z</updated>
+    <updated>2026-06-03T14:36:59.789Z</updated>
     
-    <content type="html"><![CDATA[<p>Pushup Log 是一款轻量级俯卧撑计数与记录工具——永久 100% 免费（无订阅、无内购）。</p><p>训练时点击任意位置即可计数。你可以手动结束训练（或在一段时间无操作后自动结束），每次训练都会被保存。支持用图表回顾历史记录，使用 iCloud（可选）在多设备间同步，并可将俯卧撑数量写入 Apple Health（可选）。</p><h3 id="亮点"><a href="#亮点" class="headerlink" title="亮点"></a>亮点</h3><ul><li>轻点计数：界面干净，记录很快</li><li>自动保存训练 + 历史可编辑</li><li>按天&#x2F;周&#x2F;月&#x2F;年统计与图表</li><li>本地通知提醒（可选）</li><li>iCloud 多设备同步（可选）</li><li>Apple Health 集成（可选；仅写入）</li><li>支持 JSON 导出&#x2F;导入数据</li></ul><h3 id="为什么选择它"><a href="#为什么选择它" class="headerlink" title="为什么选择它"></a>为什么选择它</h3><ul><li>不用注册账号：无广告、无埋点、无分析</li><li>轻量不打扰，专注记录</li><li>数据默认保存在本机（可选 iCloud 同步）</li><li>永久 100% 免费：无订阅、无内购</li></ul><h3 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h3><ol><li>打开 Pushup Log，点击任意位置开始计数。</li><li>手动结束训练（或等待无操作自动结束）。</li><li>查看历史和图表，需要的话设置提醒。</li><li>随时导出&#x2F;导入 JSON，用于备份或迁移数据。</li></ol><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li>SwiftUI（iOS）</li><li>iCloud 同步（可选）</li><li>HealthKit 俯卧撑数据写入（可选；仅写入）</li></ul><p>App Store 链接：<a href="https://apps.apple.com/us/app/id6757068491">https://apps.apple.com/us/app/id6757068491</a></p><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/push-up/1.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/push-up/2.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/push-up/4.jpg","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/push-up/3.jpg","alt":"","title":""}]</div>  </div><script>// window.open("https://apps.apple.com/us/app/id6757068491");// javascript:history.go(-1)</script><p><a href="javascript:history.go(-1)">⬅返回</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Pushup Log is a lightweight pushup counting and logging tool—permanently 100% free (no subscriptions, no in-app purchases).</p><p>During a workout, tap anywhere to count. You can manually end the workout (or let it end automatically after a period of inactivity), and every workout will be saved. It supports reviewing history with charts, syncing across devices using iCloud (optional), and writing pushup counts to Apple Health (optional).</p><h3 id="Highlights"><a href="#Highlights" class="headerlink" title="Highlights"></a>Highlights</h3><ul><li>Tap to count: clean interface, fast logging</li><li>Automatically save workouts + editable history</li><li>Daily&#x2F;weekly&#x2F;monthly&#x2F;yearly statistics and charts</li><li>Local notification reminders (optional)</li><li>iCloud multi-device sync (optional)</li><li>Apple Health integration (optional; write-only)</li><li>Supports JSON data export&#x2F;import</li></ul><h3 id="Why-Choose-It"><a href="#Why-Choose-It" class="headerlink" title="Why Choose It"></a>Why Choose It</h3><ul><li>No account required: no ads, no tracking, no analytics</li><li>Lightweight and unobtrusive, focused on logging</li><li>Data is stored locally by default (optional iCloud sync)</li><li>Permanently 100% free: no subscriptions, no in-app purchases</li></ul><h3 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h3><ol><li>Open Pushup Log and tap anywhere to start counting.</li><li>Manually end the workout (or wait for it to end automatically after inactivity).</li><li>View history and charts, and set reminders if needed.</li><li>Export&#x2F;import JSON anytime for backup or data migration.</li></ol><h3 id="Tech-Stack"><a href="#Tech-Stack" class="headerlink" title="Tech Stack"></a>Tech Stack</h3><ul><li>SwiftUI (iOS)</li><li>iCloud sync (optional)</li><li>HealthKit pushup data writing (optional; write-only)</li></ul><p>App Store Link: <a href="https://apps.apple.com/us/app/id6757068491">https://apps.apple.com/us/app/id6757068491</a></p><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/push-up/1.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/push-up/2.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/push-up/4.jpg","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/push-up/3.jpg","alt":"","title":""}]</div>  </div><script>// window.open("https://apps.apple.com/us/app/id6757068491");// javascript:history.go(-1)</script><p><a href="javascript:history.go(-1)">⬅Back</a></p>]]></content>
     
     
-    <summary type="html">轻量级俯卧撑计数与记录工具。</summary>
+    <summary type="html">A lightweight pushup counting and logging tool.</summary>
     
     
     
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="健康" scheme="https://ihogu.com/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="Health" scheme="https://ihogu.com/tags/Health/"/>
     
   </entry>
   
   <entry>
-    <title>扫码点单智慧门店-商家端</title>
+    <title>Scan-to-Order Smart Store - Merchant Side</title>
     <link href="https://ihogu.com/p/scan-order-smart-store-merchant/"/>
     <id>https://ihogu.com/p/scan-order-smart-store-merchant/</id>
     <published>2023-03-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.353Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>线上小店&#x2F;扫码点单&#x2F;支持数字人民币收单&#x2F;商户账本&#x2F;订单统计&#x2F;分润统计&#x2F;会员管理</li><li>奖励金&#x2F;储值卡&#x2F;会员卡&#x2F;小票打印&#x2F;商品入库扫描&#x2F;生成收单码</li><li>商品&#x2F;订单管理,结算结算,到账语音播报,账单报表统计,店铺设置等功能</li><li>商家推新奖励系统,商家分润系统,商家可邀请新用户成为分润会员,会员在商家支付可得金豆分润奖励</li><li><a href="https://app.mi.com/details?id=com.angyakeji.yld">Android:https://app.mi.com/details?id=com.angyakeji.yld</a></li><li><a href="https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058">IOS:https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui1.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui2.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui3.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui4.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Online store&#x2F;QR-code ordering&#x2F;support for digital RMB payment collection&#x2F;merchant ledger&#x2F;order statistics&#x2F;commission statistics&#x2F;member management</li><li>Reward cash&#x2F;stored-value cards&#x2F;membership cards&#x2F;receipt printing&#x2F;product stock-in scanning&#x2F;payment QR code generation</li><li>Product&#x2F;order management, settlement, payment arrival voice announcements, bill report statistics, store settings, and other features</li><li>Merchant new customer reward system and merchant commission system: merchants can invite new users to become commission members, and members can earn Gold Bean commission rewards when paying at the merchant</li><li><a href="https://app.mi.com/details?id=com.angyakeji.yld">Android:https://app.mi.com/details?id=com.angyakeji.yld</a></li><li><a href="https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058">IOS:https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui1.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui2.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui3.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/yu_le_dui4.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;线上小店&amp;#x2F;扫码点单&amp;#x2F;支持数字人民币收单&amp;#x2F;商户账本&amp;#x2F;订单统计&amp;#x2F;分润统计&amp;#x2F;会员管理&lt;/li&gt;
-&lt;li&gt;奖励金&amp;#x2F;储值卡&amp;#x2F;会员卡&amp;#x2F;小票打印&amp;#x2F;商品入库扫描&amp;#x2F;生成收</summary>
+&lt;li&gt;Online store&amp;#x2F;QR-code ordering&amp;#x2F;support for digital RMB payment collection&amp;#x2F;merchant ledger&amp;#x2F;order statistics&amp;#x2F;</summary>
       
     
     
@@ -337,59 +320,55 @@
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="商家自营" scheme="https://ihogu.com/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    <category term="Merchant-Owned" scheme="https://ihogu.com/tags/Merchant-Owned/"/>
     
-    <category term="生活服务" scheme="https://ihogu.com/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Lifestyle Services" scheme="https://ihogu.com/tags/Lifestyle-Services/"/>
     
   </entry>
   
   <entry>
-    <title>扫码点单智慧门店-用户端</title>
+    <title>Scan-to-Order Smart Store - User Side</title>
     <link href="https://ihogu.com/p/scan-order-smart-store-user/"/>
     <id>https://ihogu.com/p/scan-order-smart-store-user/</id>
     <published>2023-03-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.353Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>扫码点单智慧门店线下扫码点单系统</li><li>金豆红包营销系统,金豆抵扣现金,用户线上&#x2F;线上购物获得金豆,分享邀请得金豆,任务签到得金豆,用户间金豆互赠</li><li>储值卡功能,优惠券功能,点评系统,附近商家等</li><li>通兑系统:支持三方积分系统接入,原三方用户积分可兑换为扫码点单智慧门店积分</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui1.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui2.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Offline QR-code ordering system for Scan-to-Order Smart Store</li><li>Gold Bean red packet marketing system: Gold Beans can be used as cash deductions; users can earn Gold Beans through online&#x2F;offline shopping, sharing invitations, task check-ins, and gifting Gold Beans to each other</li><li>Stored-value card features, coupon features, review system, nearby merchants, and more</li><li>Universal points redemption system: supports integration with third-party points systems, allowing original third-party user points to be exchanged into Scan-to-Order Smart Store points</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui1.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui2.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/scan-order-smart-store-user/yu_le_dui_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;扫码点单智慧门店线下扫码点单系统&lt;/li&gt;
-&lt;li&gt;金豆红包营销系统,金豆抵扣现金,用户线上&amp;#x2F;线上购物获得金豆,分享邀请得金豆,任务签到得金豆,用户间金豆互赠&lt;/li&gt;
-&lt;li&gt;储值卡功能,优惠券功能,点评系统,附近商家等&lt;/li&gt;
-&lt;li&gt;通兑系统:</summary>
+&lt;li&gt;Offline QR-code ordering system for Scan-to-Order Smart Store&lt;/li&gt;
+&lt;li&gt;Gold Bean red packet marketing system: Gold Beans can be use</summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="商家自营" scheme="https://ihogu.com/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    <category term="Merchant-Owned" scheme="https://ihogu.com/tags/Merchant-Owned/"/>
     
-    <category term="生活服务" scheme="https://ihogu.com/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Lifestyle Services" scheme="https://ihogu.com/tags/Lifestyle-Services/"/>
     
   </entry>
   
   <entry>
-    <title>扫码点单智慧门店-推广人</title>
+    <title>Scan-to-Order Smart Store - Promoter</title>
     <link href="https://ihogu.com/p/scan-order-smart-store-promoter/"/>
     <id>https://ihogu.com/p/scan-order-smart-store-promoter/</id>
     <published>2023-01-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.352Z</updated>
+    <updated>2026-06-03T16:19:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>商家进件功能,商家收单码生成打印</li><li>推广人金豆分润系统,成为推广人后可邀请商家入驻,可获得商家赠送金豆对应奖励金</li><li>实时统计商家交易数据,帮助推广人更好的走访商家</li><li>推广人名下商户结算,收单,推新,优惠统计,商户维护相关功能</li><li><a href="https://yld.angyakeji.com/api/spread/public/view/download">Android:https://yld.angyakeji.com/api/spread/public/view/download</a></li><li>微信小程序-扫码点单智慧门店推广人</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_spread/yu_le_dui.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_spread/yu_le_dui1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Merchant onboarding feature, merchant payment QR code generation and printing</li><li>Promoter Gold Bean commission system: after becoming a promoter, users can invite merchants to join and receive reward cash corresponding to the Gold Beans given by merchants</li><li>Real-time merchant transaction data statistics to help promoters visit merchants more effectively</li><li>Features related to merchant settlement, payment collection, new customer acquisition, promotion statistics, and merchant maintenance under the promoter’s account</li><li><a href="https://yld.angyakeji.com/api/spread/public/view/download">Android:https://yld.angyakeji.com/api/spread/public/view/download</a></li><li>WeChat Mini Program - Scan-to-Order Smart Store Promoter</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_spread/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_spread/yu_le_dui1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;商家进件功能,商家收单码生成打印&lt;/li&gt;
-&lt;li&gt;推广人金豆分润系统,成为推广人后可邀请商家入驻,可获得商家赠送金豆对应奖励金&lt;/li&gt;
-&lt;li&gt;实时统计商家交易数据,帮助推广人更好的走访商家&lt;/li&gt;
-&lt;li&gt;推广人名下商户结算,收单,推新,优惠统计,商户维</summary>
+&lt;li&gt;Merchant onboarding feature, merchant payment QR code generation and printing&lt;/li&gt;
+&lt;li&gt;Promoter Gold Bean commission system: after </summary>
       
     
     
@@ -397,116 +376,112 @@
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="商业服务" scheme="https://ihogu.com/tags/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Business Services" scheme="https://ihogu.com/tags/Business-Services/"/>
     
-    <category term="商家自营" scheme="https://ihogu.com/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    <category term="Merchant-Owned" scheme="https://ihogu.com/tags/Merchant-Owned/"/>
     
   </entry>
   
   <entry>
-    <title>码上点餐</title>
+    <title>Scan-to-Order</title>
     <link href="https://ihogu.com/p/scan-to-order/"/>
     <id>https://ihogu.com/p/scan-to-order/</id>
     <published>2022-02-02T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.352Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>扫描餐桌二维码点餐</li><li>附近商家展示</li><li>桌台预约</li><li>在线点餐</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/Ordering/Ordering.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/Ordering/orderingQR_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Scan the table QR code to order</li><li>Nearby merchant display</li><li>Table reservation</li><li>Online ordering</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/Ordering/Ordering.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/Ordering/orderingQR_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;扫描餐桌二维码点餐&lt;/li&gt;
-&lt;li&gt;附近商家展示&lt;/li&gt;
-&lt;li&gt;桌台预约&lt;/li&gt;
-&lt;li&gt;在线点餐&lt;/li&gt;
+&lt;li&gt;Scan the table QR code to order&lt;/li&gt;
+&lt;li&gt;Nearby merchant display&lt;/li&gt;
+&lt;li&gt;Table reservation&lt;/li&gt;
+&lt;li&gt;Online ordering&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; dat</summary>
+&lt;di</summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="商家自营" scheme="https://ihogu.com/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    <category term="Merchant-Owned" scheme="https://ihogu.com/tags/Merchant-Owned/"/>
     
-    <category term="餐饮服务" scheme="https://ihogu.com/tags/%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Catering Services" scheme="https://ihogu.com/tags/Catering-Services/"/>
     
   </entry>
   
   <entry>
-    <title>芯片批发网站</title>
+    <title>Chip Wholesale Website</title>
     <link href="https://ihogu.com/p/chip-wholesale-website/"/>
     <id>https://ihogu.com/p/chip-wholesale-website/</id>
     <published>2022-01-06T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.352Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>快速找料 快速报价 全球找料</li><li>电子元器件现货数据服务平台</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shop_xinpian_shenzhen/xinpian1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Quick component sourcing, fast quotes, global component sourcing</li><li>Spot inventory data service platform for electronic components</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shop_xinpian_shenzhen/xinpian1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;快速找料 快速报价 全球找料&lt;/li&gt;
-&lt;li&gt;电子元器件现货数据服务平台&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;10&quot; dat</summary>
+&lt;li&gt;Quick component sourcing, fast quotes, global component sourcing&lt;/li&gt;
+&lt;li&gt;Spot inventory data service platform for electronic compo</summary>
       
     
     
     
-    <category term="网站" scheme="https://ihogu.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="Website" scheme="https://ihogu.com/categories/Website/"/>
     
     
-    <category term="芯片" scheme="https://ihogu.com/tags/%E8%8A%AF%E7%89%87/"/>
+    <category term="Chips" scheme="https://ihogu.com/tags/Chips/"/>
     
   </entry>
   
   <entry>
-    <title>轻旅圈Lite</title>
+    <title>Outing Travel Lite</title>
     <link href="https://ihogu.com/p/outing-travel-lite/"/>
     <id>https://ihogu.com/p/outing-travel-lite/</id>
     <published>2021-12-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.352Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>在 Outing Travel 轻旅圈，我们致力于打造一个专注于青年旅行爱好者的旅行互助社区，从而让你能够在他人的帮助或参与下，开启自己期待已久的精彩旅程。期待有趣有想法的你们在 Outing 启发彼此，互相帮助，从而建立更多有心有意义的旅行连接 😊</li><li>介绍:<a href="http://www.sohu.com/a/218045743_720705">http://www.sohu.com/a/218045743_720705</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>At Outing Travel Lite, we are committed to building a travel mutual-aid community focused on young travel enthusiasts, helping you begin the wonderful journey you have long looked forward to with the help or participation of others. We look forward to interesting and thoughtful people inspiring and helping each other on Outing, creating more meaningful and heartfelt travel connections 😊</li><li>Introduction:<a href="http://www.sohu.com/a/218045743_720705">http://www.sohu.com/a/218045743_720705</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/outing/outing.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;在 Outing Travel 轻旅圈，我们致力于打造一个专注于青年旅行爱好者的旅行互助社区，从而让你能够在他人的帮助或参与下，开启自己期待已久的精彩旅程。期待有趣有想法的你们在 Outing 启发彼此，互相帮助，从而建立更多有心有意义的旅行连接 😊&lt;/li&gt;</summary>
+&lt;li&gt;At Outing Travel Lite, we are committed to building a travel mutual-aid community focused on young travel enthusiasts, helping you </summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="社交" scheme="https://ihogu.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="Social" scheme="https://ihogu.com/tags/Social/"/>
     
-    <category term="旅游服务" scheme="https://ihogu.com/tags/%E6%97%85%E6%B8%B8%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Travel Services" scheme="https://ihogu.com/tags/Travel-Services/"/>
     
   </entry>
   
   <entry>
-    <title>新视窗家政服务</title>
+    <title>Xinshichuang Home Services</title>
     <link href="https://ihogu.com/p/xinshichuang-home-services/"/>
     <id>https://ihogu.com/p/xinshichuang-home-services/</id>
     <published>2021-09-30T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.351Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>新视窗家政生活服务平台,在线预约服务,分配师傅</li><li>金牌服务&#x2F;师傅入驻,家政付费教学视频</li><li>在线技能考核,同城商家优惠券,分销推广返利</li><li>Android:<a href="https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app">https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app</a></li><li>Apple:<a href="https://apps.apple.com/us/app/id1575485983">https://apps.apple.com/us/app/id1575485983</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Xinshichuang home and lifestyle service platform, online service booking, and worker assignment</li><li>Gold-level services&#x2F;worker onboarding, paid home service training videos</li><li>Online skill assessments, local merchant coupons, distribution promotion rebates</li><li>Android:<a href="https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app">https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app</a></li><li>Apple:<a href="https://apps.apple.com/us/app/id1575485983">https://apps.apple.com/us/app/id1575485983</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;新视窗家政生活服务平台,在线预约服务,分配师傅&lt;/li&gt;
-&lt;li&gt;金牌服务&amp;#x2F;师傅入驻,家政付费教学视频&lt;/li&gt;
-&lt;li&gt;在线技能考核,同城商家优惠券,分销推广返利&lt;/li&gt;
-&lt;li&gt;Android:&lt;a href=&quot;https://sj.qq.com</summary>
+&lt;li&gt;Xinshichuang home and lifestyle service platform, online service booking, and worker assignment&lt;/li&gt;
+&lt;li&gt;Gold-level services&amp;#x2F;w</summary>
       
     
     
@@ -514,72 +489,66 @@
     <category term="APP" scheme="https://ihogu.com/categories/APP/"/>
     
     
-    <category term="商家自营" scheme="https://ihogu.com/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    <category term="Merchant-Owned" scheme="https://ihogu.com/tags/Merchant-Owned/"/>
     
-    <category term="生活服务" scheme="https://ihogu.com/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Lifestyle Services" scheme="https://ihogu.com/tags/Lifestyle-Services/"/>
     
   </entry>
   
   <entry>
-    <title>婚礼百科问答</title>
+    <title>Wedding Encyclopedia Q&amp;A</title>
     <link href="https://ihogu.com/p/wedding-encyclopedia-qa/"/>
     <id>https://ihogu.com/p/wedding-encyclopedia-qa/</id>
     <published>2021-08-31T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.351Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>澳洲婚礼百科今日焦点</li><li>婚礼咨询&#x2F;婚礼博文</li><li>婚礼百科知识</li><li>官网:<a href="http://labride.com.cn/">http://labride.com.cn</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/steven/steven.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/steven/steven2.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/steven/labride_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Australia Wedding Encyclopedia Today’s Focus</li><li>Wedding consultation&#x2F;wedding blog posts</li><li>Wedding encyclopedia knowledge</li><li>Official website:<a href="http://labride.com.cn/">http://labride.com.cn</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/steven/steven.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/steven/steven2.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/steven/labride_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;澳洲婚礼百科今日焦点&lt;/li&gt;
-&lt;li&gt;婚礼咨询&amp;#x2F;婚礼博文&lt;/li&gt;
-&lt;li&gt;婚礼百科知识&lt;/li&gt;
-&lt;li&gt;官网:&lt;a href=&quot;http://labride.com.cn/&quot;&gt;http://labride.com.cn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul</summary>
+&lt;li&gt;Australia Wedding Encyclopedia Today’s Focus&lt;/li&gt;
+&lt;li&gt;Wedding consultation&amp;#x2F;wedding blog posts&lt;/li&gt;
+&lt;li&gt;Wedding encyclopedia kn</summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="资讯" scheme="https://ihogu.com/tags/%E8%B5%84%E8%AE%AF/"/>
+    <category term="News" scheme="https://ihogu.com/tags/News/"/>
     
-    <category term="生活服务" scheme="https://ihogu.com/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Lifestyle Services" scheme="https://ihogu.com/tags/Lifestyle-Services/"/>
     
   </entry>
   
   <entry>
-    <title>早早快购-新西兰</title>
+    <title>Zaozao Quick Buy - New Zealand</title>
     <link href="https://ihogu.com/p/zaozao-quick-buy-nz/"/>
     <id>https://ihogu.com/p/zaozao-quick-buy-nz/</id>
     <published>2021-07-10T16:00:00.000Z</published>
-    <updated>2026-05-21T08:36:48.351Z</updated>
+    <updated>2026-06-03T06:49:08.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>每天为国际游客提供最优质的当地旅游服务和景点推广服务</li><li>购物特产&#x2F;酒店住宿</li><li>餐饮美食&#x2F;交通出行</li><li>活动演出&#x2F;景点观光</li><li>日常服务&#x2F;旅游商服</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou1.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou2.png","alt":"","title":""},{"url":"https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>Provides international tourists with high-quality local travel services and attraction promotion services every day</li><li>Shopping and local specialties&#x2F;hotel accommodation</li><li>Dining and food&#x2F;transportation</li><li>Events and performances&#x2F;attractions and sightseeing</li><li>Daily services&#x2F;travel business services</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou1.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou2.png","alt":"","title":""},{"url":"https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅Back to Previous Page</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;每天为国际游客提供最优质的当地旅游服务和景点推广服务&lt;/li&gt;
-&lt;li&gt;购物特产&amp;#x2F;酒店住宿&lt;/li&gt;
-&lt;li&gt;餐饮美食&amp;#x2F;交通出行&lt;/li&gt;
-&lt;li&gt;活动演出&amp;#x2F;景点观光&lt;/li&gt;
-&lt;li&gt;日常服务&amp;#x2F;旅游商服&lt;/li&gt;
-&lt;/u</summary>
+&lt;li&gt;Provides international tourists with high-quality local travel services and attraction promotion services every day&lt;/li&gt;
+&lt;li&gt;Shoppi</summary>
       
     
     
     
-    <category term="小程序" scheme="https://ihogu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="Mini Program" scheme="https://ihogu.com/categories/Mini-Program/"/>
     
     
-    <category term="电商平台" scheme="https://ihogu.com/tags/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0/"/>
+    <category term="E-commerce Platform" scheme="https://ihogu.com/tags/E-commerce-Platform/"/>
     
-    <category term="旅游服务" scheme="https://ihogu.com/tags/%E6%97%85%E6%B8%B8%E6%9C%8D%E5%8A%A1/"/>
+    <category term="Travel Services" scheme="https://ihogu.com/tags/Travel-Services/"/>
     
   </entry>
   

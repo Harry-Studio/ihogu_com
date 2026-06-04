@@ -1,34 +1,6 @@
 window.BLOG_POSTS = [
   {
-    "title": "WealthTrees - 私人资产追踪",
-    "path": "p/wealthtrees/",
-    "date": "2026-01-03",
-    "year": 2026,
-    "categories": [
-      "APP"
-    ],
-    "tags": [
-      "财富"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/wealth/1.jpg",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "Monster Chores - 家务任务积分与奖励",
-    "path": "p/monster-chores/",
-    "date": "2026-01-02",
-    "year": 2026,
-    "categories": [
-      "APP"
-    ],
-    "tags": [],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/monster/1.PNG",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "Eve Period Tracker - 优雅的经期追踪应用",
+    "title": "Eve Period Tracker - Elegant Period Tracking App",
     "path": "p/eve-period-tracker/",
     "date": "2026-01-01",
     "year": 2026,
@@ -36,14 +8,42 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "健康"
+      "Health"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/eve-period-tracker/1.jpg",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/eve-period-tracker/1.jpg",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "Pushup Log - 俯卧撑计数与统计",
+    "title": "WealthTrees - Personal Asset Tracking",
+    "path": "p/wealthtrees/",
+    "date": "2026-01-03",
+    "year": 2026,
+    "categories": [
+      "APP"
+    ],
+    "tags": [
+      "Wealth"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/wealth/1.jpg",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Monster Chores - Chore Points and Rewards",
+    "path": "p/monster-chores/",
+    "date": "2026-01-02",
+    "year": 2026,
+    "categories": [
+      "APP"
+    ],
+    "tags": [],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/monster/1.PNG",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Pushup Log - Pushup Counting and Statistics",
     "path": "p/pushup-log/",
     "date": "2023-12-01",
     "year": 2023,
@@ -51,75 +51,75 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "健康"
+      "Health"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/project/push-up/1.jpg",
-    "description": "轻量级俯卧撑计数与记录工具。",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/push-up/1.jpg",
+    "description": "A lightweight pushup counting and logging tool.",
     "excerpt": ""
   },
   {
-    "title": "视频批量融帧剪辑特效自动化助手",
+    "title": "Video Batch Frame Blending, Frame Interpolation, and Editing Automation Assistant",
     "path": "p/video-batch-frame-blend-editing-assistant/",
     "date": "2025-11-11",
     "year": 2025,
     "categories": [
-      "Windows软件"
+      "Windows Software"
     ],
     "tags": [
-      "IT科技"
+      "IT Technology"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/0.jpg",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/video-batch-frame-blend-editing-assistant/0.jpg",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "英语字幕视频学习",
-    "path": "p/english-subtitle-video-learning/",
-    "date": "2026-02-06",
-    "year": 2026,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "教育"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/speaken/1.jpg",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "Ai证件照合成,图片修改文字,一键换发型",
+    "title": "AI ID Photo Generation, Image Text Editing, One-Click Hairstyle Change",
     "path": "p/ai-id-photo-generation-text-edit-hairstyle/",
     "date": "2025-11-30",
     "year": 2025,
     "categories": [
-      "Ai应用"
+      "AI Application"
     ],
     "tags": [
-      "IT科技"
+      "IT Technology"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/aizhengjianzhao/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/aizhengjianzhao/0.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "ChinaSourcing外贸独立站",
+    "title": "English Subtitle Video Learning",
+    "path": "p/english-subtitle-video-learning/",
+    "date": "2026-02-06",
+    "year": 2026,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Education"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/speaken/1.jpg",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "ChinaSourcing Cross-Border Independent Website",
     "path": "p/chinasourcing-cross-border-site/",
     "date": "2016-08-22",
     "year": 2016,
     "categories": [
-      "网站"
+      "Website"
     ],
     "tags": [
-      "电商平台",
-      "商业服务"
+      "E-commerce Platform",
+      "Business Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/sourcing/0.png",
-    "description": "专业采购解决方案提供商",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/sourcing/0.png",
+    "description": "Professional sourcing solution provider",
     "excerpt": ""
   },
   {
-    "title": "销售管理助手App",
+    "title": "Sales Management Assistant App",
     "path": "p/sales-management-assistant-app/",
     "date": "2016-08-22",
     "year": 2016,
@@ -127,140 +127,156 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "IT科技",
-      "商业服务"
+      "IT Technology",
+      "Business Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/sales-management-assistant-app/1.png",
-    "description": "销售管理助手App:App注册授权/数据备份/导出/订单管理/客户管理/商品管理",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/sales-management-assistant-app/1.png",
+    "description": "Sales Management Assistant App: app registration authorization/data backup/export/order management/customer management/product management",
     "excerpt": ""
   },
   {
-    "title": "增值税减税降费计算器",
-    "path": "p/vat-tax-reduction-calculator/",
-    "date": "2017-08-06",
-    "year": 2017,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "金融业"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuiwujisuan/shuiwujisuan.png",
-    "description": "增值税减税降费计算器",
-    "excerpt": ""
-  },
-  {
-    "title": "木材材积表",
-    "path": "p/timber-volume-table/",
-    "date": "2017-10-05",
-    "year": 2017,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "商业服务",
-      "工具"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mucaicaiji/mucaicaiji.png",
-    "description": "木材材积表,木材体积计算",
-    "excerpt": ""
-  },
-  {
-    "title": "贸小易-CRM客户管理系统",
+    "title": "Maoxiaoyi - CRM Customer Management System",
     "path": "p/maoxiaoyi-crm-customer-management/",
     "date": "2017-04-30",
     "year": 2017,
     "categories": [
-      "网站"
+      "Website"
     ],
     "tags": [
-      "IT科技",
-      "商业服务"
+      "IT Technology",
+      "Business Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mxy_crm/mxy_crm3.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mxy_crm/mxy_crm3.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "极简笔记便签备忘录",
+    "title": "VAT Tax Reduction Calculator",
+    "path": "p/vat-tax-reduction-calculator/",
+    "date": "2017-08-06",
+    "year": 2017,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuiwujisuan/shuiwujisuan.png",
+    "description": "VAT Tax Reduction Calculator",
+    "excerpt": ""
+  },
+  {
+    "title": "Timber Volume Table",
+    "path": "p/timber-volume-table/",
+    "date": "2017-10-05",
+    "year": 2017,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Business Services",
+      "Tools"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mucaicaiji/mucaicaiji.png",
+    "description": "Timber volume table, timber volume calculation",
+    "excerpt": ""
+  },
+  {
+    "title": "Minimalist Notes, Sticky Notes, and Memos",
     "path": "p/minimalist-notes-memo/",
     "date": "2017-10-11",
     "year": 2017,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "工具",
-      "社交"
+      "Tools",
+      "Social"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/MiniNote/MiniNote.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/MiniNote/MiniNote.png",
     "excerpt": ""
   },
   {
-    "title": "吉他尤克里里调音器",
-    "path": "p/guitar-ukulele-tuner/",
-    "date": "2017-10-13",
-    "year": 2017,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "工具",
-      "乐器"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/guitar-ukulele-tuner/0.png",
-    "excerpt": ""
-  },
-  {
-    "title": "图片记账工具百宝箱",
+    "title": "Image Accounting Toolbox",
     "path": "p/image-expense-toolbox/",
     "date": "2017-10-12",
     "year": 2017,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "工具",
-      "记账",
-      "修图"
+      "Tools",
+      "Accounting",
+      "Image Editing"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/image-expense-toolbox/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/image-expense-toolbox/0.png",
     "excerpt": ""
   },
   {
-    "title": "大童小意在澳洲",
+    "title": "Guitar and Ukulele Tuner",
+    "path": "p/guitar-ukulele-tuner/",
+    "date": "2017-10-13",
+    "year": 2017,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Tools",
+      "Musical Instruments"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/guitar-ukulele-tuner/0.png",
+    "excerpt": ""
+  },
+  {
+    "title": "Datong Xiaoyi in Australia",
     "path": "p/datong-xiaoyi-australia/",
     "date": "2018-03-04",
     "year": 2018,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "IT科技",
-      "资讯"
+      "IT Technology",
+      "News"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/datongxiaoyi/datongxiaoyi.png",
-    "description": "澳洲生活,财经,金融,经济,商业相关的博文频道,澳洲投资理财生活的参考",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/datongxiaoyi/datongxiaoyi.png",
+    "description": "A blog channel about Australian life, finance, financial markets, economy, and business; a reference for Australian investment, wealth management, and daily life",
     "excerpt": ""
   },
   {
-    "title": "南充云星教育",
+    "title": "Nanchong Yunxing Education",
     "path": "p/nanchong-yunxing-education/",
     "date": "2018-03-06",
     "year": 2018,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "IT科技",
-      "教育服务"
+      "IT Technology",
+      "Education Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/nccsStudent/nccsStudent.PNG",
-    "description": "超级课表管理,各班级,各科成绩图表分析,全体通知,申请和审批功能",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/nccsStudent/nccsStudent.PNG",
+    "description": "Advanced timetable management, class and subject score chart analysis, school-wide notifications, application and approval features",
     "excerpt": ""
   },
   {
-    "title": "Albert LaCubeTV App-新西兰",
+    "title": "Flick Post-Malaysia",
+    "path": "p/flick-post-malaysia/",
+    "date": "2019-06-07",
+    "year": 2019,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Business Services",
+      "Logistics Services"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/flickpost/flickpost.png",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Albert LaCubeTV App-New Zealand",
     "path": "p/albert-lacubetv-app-nz/",
     "date": "2018-04-13",
     "year": 2018,
@@ -268,140 +284,93 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "社交",
-      "文娱"
+      "Social",
+      "Entertainment"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/ABGSYUK/ABGSYUK.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/ABGSYUK/ABGSYUK.png",
     "excerpt": ""
   },
   {
-    "title": "Flick Post-马来西亚",
-    "path": "p/flick-post-malaysia/",
-    "date": "2019-06-07",
-    "year": 2019,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "商业服务",
-      "物流服务"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/flickpost/flickpost.png",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "换马加油-虚拟货币走势",
-    "path": "p/huanma-gas-station-crypto-trend/",
-    "date": "2019-12-01",
-    "year": 2019,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "金融业",
-      "资讯"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/paomaJiaYou/paomaJiaYou.png",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "朗姆酒官网",
+    "title": "Rum Official Website",
     "path": "p/sanbarts-rum/",
     "date": "2020-01-02",
     "year": 2020,
     "categories": [
-      "网站"
+      "Website"
     ],
     "tags": [
       "wordpress"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/sanbarts/1.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/sanbarts/1.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "集果采集商城",
+    "title": "Huanma Gas Station - Cryptocurrency Trends",
+    "path": "p/huanma-gas-station-crypto-trend/",
+    "date": "2019-12-01",
+    "year": 2019,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "Finance",
+      "News"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/paomaJiaYou/paomaJiaYou.png",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Jiguo Fruit Collection Mall",
     "path": "p/jiguo-fruit-collection-mall/",
     "date": "2019-12-31",
     "year": 2019,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "电商平台",
-      "商家自营"
+      "E-commerce Platform",
+      "Merchant-Owned"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/jiguocaiji/jiguocaiji.png",
-    "description": "国内外优质果蔬批发,订购平台",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/jiguocaiji/jiguocaiji.png",
+    "description": "Wholesale and ordering platform for high-quality fruits and vegetables from China and abroad",
     "excerpt": ""
   },
   {
-    "title": "早早云剧-新西兰",
+    "title": "Zaozao Cloud Theater - New Zealand",
     "path": "p/zaozao-cloud-theater-nz/",
     "date": "2020-01-01",
     "year": 2020,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "电商平台",
-      "文娱"
+      "E-commerce Platform",
+      "Entertainment"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaoyunju/zaozaoyunju.png",
-    "description": "新西兰在线剧场-付费视频订阅购买",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaoyunju/zaozaoyunju.png",
+    "description": "New Zealand online theater - paid video subscriptions and purchases",
     "excerpt": ""
   },
   {
-    "title": "垃圾分类微信小游戏",
-    "path": "p/garbage-sorting-wechat-mini-game/",
-    "date": "2020-07-10",
-    "year": 2020,
-    "categories": [
-      "小游戏"
-    ],
-    "tags": [
-      "娱乐",
-      "生活服务"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/lajifenlei/lajifenlei.png",
-    "description": "通过微信下落式小游戏学习垃圾分类",
-    "excerpt": ""
-  },
-  {
-    "title": "早早快购-新西兰",
-    "path": "p/zaozao-quick-buy-nz/",
-    "date": "2021-07-11",
-    "year": 2021,
-    "categories": [
-      "小程序"
-    ],
-    "tags": [
-      "电商平台",
-      "旅游服务"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou.png",
-    "excerpt": ""
-  },
-  {
-    "title": "婚礼百科问答",
+    "title": "Wedding Encyclopedia Q&A",
     "path": "p/wedding-encyclopedia-qa/",
     "date": "2021-09-01",
     "year": 2021,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "资讯",
-      "生活服务"
+      "News",
+      "Lifestyle Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/steven/steven.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/steven/steven.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "新视窗家政服务",
+    "title": "Xinshichuang Home Services",
     "path": "p/xinshichuang-home-services/",
     "date": "2021-10-01",
     "year": 2021,
@@ -409,76 +378,45 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "商家自营",
-      "生活服务"
+      "Merchant-Owned",
+      "Lifestyle Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/SgXinShiChuang/SgXinShiChuang.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "轻旅圈Lite",
+    "title": "Outing Travel Lite",
     "path": "p/outing-travel-lite/",
     "date": "2022-01-01",
     "year": 2022,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "社交",
-      "旅游服务"
+      "Social",
+      "Travel Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/outing/outing.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/outing/outing.png",
     "excerpt": ""
   },
   {
-    "title": "芯片批发网站",
-    "path": "p/chip-wholesale-website/",
-    "date": "2022-01-07",
-    "year": 2022,
-    "categories": [
-      "网站"
-    ],
-    "tags": [
-      "芯片"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shop_xinpian_shenzhen/xinpian1.png",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "码上点餐",
+    "title": "Scan-to-Order",
     "path": "p/scan-to-order/",
     "date": "2022-02-03",
     "year": 2022,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "商家自营",
-      "餐饮服务"
+      "Merchant-Owned",
+      "Catering Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/Ordering/Ordering.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/Ordering/Ordering.png",
     "excerpt": ""
   },
   {
-    "title": "扫码点单智慧门店-商家端",
-    "path": "p/scan-order-smart-store-merchant/",
-    "date": "2023-04-01",
-    "year": 2023,
-    "categories": [
-      "APP"
-    ],
-    "tags": [
-      "商家自营",
-      "生活服务"
-    ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_mer/0.png",
-    "description": null,
-    "excerpt": ""
-  },
-  {
-    "title": "扫码点单智慧门店-推广人",
+    "title": "Scan-to-Order Smart Store - Promoter",
     "path": "p/scan-order-smart-store-promoter/",
     "date": "2023-02-01",
     "year": 2023,
@@ -486,88 +424,150 @@ window.BLOG_POSTS = [
       "APP"
     ],
     "tags": [
-      "商业服务",
-      "商家自营"
+      "Business Services",
+      "Merchant-Owned"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/yu_le_dui_spread/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_spread/0.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "扫码点单智慧门店-用户端",
+    "title": "Zaozao Quick Buy - New Zealand",
+    "path": "p/zaozao-quick-buy-nz/",
+    "date": "2021-07-11",
+    "year": 2021,
+    "categories": [
+      "Mini Program"
+    ],
+    "tags": [
+      "E-commerce Platform",
+      "Travel Services"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/zaozaokuaigou/zaozaokuaigou.png",
+    "excerpt": ""
+  },
+  {
+    "title": "Scan-to-Order Smart Store - Merchant Side",
+    "path": "p/scan-order-smart-store-merchant/",
+    "date": "2023-04-01",
+    "year": 2023,
+    "categories": [
+      "APP"
+    ],
+    "tags": [
+      "Merchant-Owned",
+      "Lifestyle Services"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/yu_le_dui_mer/0.png",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Scan-to-Order Smart Store - User Side",
     "path": "p/scan-order-smart-store-user/",
     "date": "2023-04-01",
     "year": 2023,
     "categories": [
-      "小程序"
+      "Mini Program"
     ],
     "tags": [
-      "商家自营",
-      "生活服务"
+      "Merchant-Owned",
+      "Lifestyle Services"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/scan-order-smart-store-user/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/scan-order-smart-store-user/0.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "视频生成字幕Ai助手",
+    "title": "Video Subtitle AI Assistant",
     "path": "p/video-subtitle-ai-helper/",
     "date": "2024-03-01",
     "year": 2024,
     "categories": [
-      "Ai应用"
+      "AI Application"
     ],
     "tags": [
-      "IT科技"
+      "IT Technology"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shipin_zhuan_wenzi/0.svg",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shipin_zhuan_wenzi/0.svg",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "抖音答题游戏",
+    "title": "Douyin Quiz Game",
     "path": "p/douyin-quiz-game/",
     "date": "2024-09-01",
     "year": 2024,
     "categories": [
-      "小游戏"
+      "Mini Game"
     ],
     "tags": [
-      "社交",
-      "娱乐"
+      "Social",
+      "Entertainment"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/douyindatixiaoyouxi/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/douyindatixiaoyouxi/0.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "模板海报在线PS",
+    "title": "Template Poster Online PS",
     "path": "p/template-poster-online-ps/",
     "date": "2024-11-01",
     "year": 2024,
     "categories": [
-      "Ai应用"
+      "AI Application"
     ],
     "tags": [
-      "IT科技"
+      "IT Technology"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/mubanhaibaopsmini/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/mubanhaibaopsmini/0.png",
     "description": null,
     "excerpt": ""
   },
   {
-    "title": "Ai克隆数字人 数字人生",
+    "title": "AI Clone Digital Human, Digital Life",
     "path": "p/ai-clone-digital-human-digital-life/",
     "date": "2025-10-30",
     "year": 2025,
     "categories": [
-      "Ai应用"
+      "AI Application"
     ],
     "tags": [
-      "IT科技",
-      "Ai模型"
+      "IT Technology",
+      "AI Model"
     ],
-    "cover": "https://harry-resume-1251903635.cos.ap-shanghai.myqcloud.com/cos/work/shuziren/0.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shuziren/0.png",
+    "description": null,
+    "excerpt": ""
+  },
+  {
+    "title": "Garbage Sorting WeChat Mini Game",
+    "path": "p/garbage-sorting-wechat-mini-game/",
+    "date": "2020-07-10",
+    "year": 2020,
+    "categories": [
+      "Mini Game"
+    ],
+    "tags": [
+      "Entertainment",
+      "Lifestyle Services"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/lajifenlei/lajifenlei.png",
+    "description": "Learn garbage sorting through a WeChat falling-object mini game",
+    "excerpt": ""
+  },
+  {
+    "title": "Chip Wholesale Website",
+    "path": "p/chip-wholesale-website/",
+    "date": "2022-01-07",
+    "year": 2022,
+    "categories": [
+      "Website"
+    ],
+    "tags": [
+      "Chips"
+    ],
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/cos/work/shop_xinpian_shenzhen/xinpian1.png",
     "description": null,
     "excerpt": ""
   }
