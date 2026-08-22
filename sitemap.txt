@@ -1,3 +1,4 @@
+https://ihogu.com/p/ihogu-ai-sidebar/
 https://ihogu.com/about/privacy/iHogu-AI-Sidebar.html
 https://ihogu.com/contact/index.html
 https://ihogu.com/contact/document.html
@@ -6,8 +7,8 @@ https://ihogu.com/categories/index.html
 https://ihogu.com/about/service.html
 https://ihogu.com/about/partner.html
 https://ihogu.com/about/index.html
-https://ihogu.com/p/english-subtitle-video-learning/
 https://ihogu.com/404/index.html
 https://ihogu.com/
-https://ihogu.com/tags/Education/
-https://ihogu.com/categories/Mini-Program/
+https://ihogu.com/tags/AI/
+https://ihogu.com/tags/Chrome-Extension/
+https://ihogu.com/categories/Chrome-Extension/
