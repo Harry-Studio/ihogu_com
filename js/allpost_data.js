@@ -11,7 +11,7 @@ window.BLOG_POSTS = [
       "AI",
       "Chrome Extension"
     ],
-    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/2026-ai-side/ai_slider.png",
+    "cover": "https://ihogu-com-1251903635.cos.na-siliconvalley.myqcloud.com/project/2026-ai-side/1.png",
     "description": "Use ChatGPT, Claude, Gemini, DeepSeek, and other AI websites beside any webpage in Chrome, with webpage context and no separate API keys.",
     "excerpt": ""
   }
